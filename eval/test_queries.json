@@ -1,0 +1,624 @@
+[
+  {
+    "id": "Q01",
+    "query": "Itchy skin with a red rash and small bumps, and some discoloured patches",
+    "symptoms": [
+      "itching",
+      "skin rash",
+      "nodal skin eruptions",
+      "dischromic patches"
+    ],
+    "relevance": {
+      "Fungal infection": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q02",
+    "query": "I keep sneezing nonstop, I have chills, shivering and watery eyes",
+    "symptoms": [
+      "continuous sneezing",
+      "chills",
+      "shivering",
+      "watering from eyes"
+    ],
+    "relevance": {
+      "Allergy": 2,
+      "Common Cold": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q03",
+    "query": "Heartburn after meals, stomach pain, sores on my tongue and a cough",
+    "symptoms": [
+      "acidity",
+      "stomach pain",
+      "ulcers on tongue",
+      "cough"
+    ],
+    "relevance": {
+      "GERD": 2,
+      "Peptic ulcer diseae": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q04",
+    "query": "Itching all over, yellow skin and yellow eyes, nausea and no appetite",
+    "symptoms": [
+      "itching",
+      "yellowish skin",
+      "yellowing of eyes",
+      "nausea",
+      "loss of appetite"
+    ],
+    "relevance": {
+      "Chronic cholestasis": 2,
+      "hepatitis A": 1,
+      "Hepatitis B": 1,
+      "Hepatitis C": 1,
+      "Hepatitis D": 1,
+      "Hepatitis E": 1,
+      "Jaundice": 1
+    },
+    "severity_overlap": {
+      "hepatitis A": 0.94,
+      "Hepatitis B": 0.71,
+      "Hepatitis C": 0.94,
+      "Hepatitis D": 0.94,
+      "Hepatitis E": 0.94
+    }
+  },
+  {
+    "id": "Q05",
+    "query": "Skin rash and itching after starting a new medicine, burning when I pee",
+    "symptoms": [
+      "skin rash",
+      "itching",
+      "burning micturition"
+    ],
+    "relevance": {
+      "Drug Reaction": 2,
+      "Urinary tract infection": 1
+    },
+    "severity_overlap": {
+      "Urinary tract infection": 0.6
+    }
+  },
+  {
+    "id": "Q06",
+    "query": "Pain during bowel movements, constipation, blood in stool and irritation in the anus",
+    "symptoms": [
+      "pain during bowel movements",
+      "constipation",
+      "bloody stool",
+      "irritation in anus"
+    ],
+    "relevance": {
+      "Dimorphic hemorrhoids(piles)": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q07",
+    "query": "Always hungry, losing weight, blurry vision, peeing a lot and very tired",
+    "symptoms": [
+      "excessive hunger",
+      "weight loss",
+      "blurred and distorted vision",
+      "polyuria",
+      "fatigue"
+    ],
+    "relevance": {
+      "Diabetes": 2,
+      "Hypoglycemia": 1,
+      "Hyperthyroidism": 1
+    },
+    "severity_overlap": {
+      "Hypoglycemia": 0.65
+    }
+  },
+  {
+    "id": "Q08",
+    "query": "Vomitting, sunken eyes, I am dehydrated and have watery diarhea",
+    "symptoms": [
+      "vomiting",
+      "sunken eyes",
+      "dehydration",
+      "diarrhoea"
+    ],
+    "relevance": {
+      "Gastroenteritis": 2,
+      "hepatitis A": 1,
+      "Malaria": 1,
+      "Typhoid": 1
+    },
+    "severity_overlap": {
+      "hepatitis A": 0.61,
+      "Malaria": 0.61,
+      "Typhoid": 0.61
+    }
+  },
+  {
+    "id": "Q09",
+    "query": "Short of breath, cough with mucoid sputum and a family history of asthma",
+    "symptoms": [
+      "breathlessness",
+      "cough",
+      "mucoid sputum",
+      "family history"
+    ],
+    "relevance": {
+      "Bronchial Asthma": 2,
+      "Pneumonia": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q10",
+    "query": "Headache, chest pain, dizziness and I can't concentrate",
+    "symptoms": [
+      "headache",
+      "chest pain",
+      "dizziness",
+      "lack of concentration"
+    ],
+    "relevance": {
+      "Hypertension": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q11",
+    "query": "Throbbing headache with blurred vision, visual disturbances, acidity and a stiff neck",
+    "symptoms": [
+      "headache",
+      "blurred and distorted vision",
+      "visual disturbances",
+      "acidity",
+      "stiff neck"
+    ],
+    "relevance": {
+      "Migraine": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q12",
+    "query": "Neck pain, back pain, feeling dizzy and weakness in my limbs",
+    "symptoms": [
+      "neck pain",
+      "back pain",
+      "dizziness",
+      "weakness in limbs"
+    ],
+    "relevance": {
+      "Cervical spondylosis": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q13",
+    "query": "Sudden weakness of one body side, headache, vomiting and altered sensorium",
+    "symptoms": [
+      "weakness of one body side",
+      "headache",
+      "vomiting",
+      "altered sensorium"
+    ],
+    "relevance": {
+      "Paralysis (brain hemorrhage)": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q14",
+    "query": "Yellowish skin, dark urine, high fever, itching and weight loss",
+    "symptoms": [
+      "yellowish skin",
+      "dark urine",
+      "high fever",
+      "itching",
+      "weight loss"
+    ],
+    "relevance": {
+      "Jaundice": 2,
+      "Hepatitis E": 1
+    },
+    "severity_overlap": {
+      "Hepatitis E": 0.78
+    }
+  },
+  {
+    "id": "Q15",
+    "query": "High feaver with chils and sweating, headake, nausia and muscle pain",
+    "symptoms": [
+      "high fever",
+      "chills",
+      "sweating",
+      "headache",
+      "nausea",
+      "muscle pain"
+    ],
+    "relevance": {
+      "Malaria": 2,
+      "Common Cold": 1,
+      "Dengue": 1,
+      "Typhoid": 1
+    },
+    "severity_overlap": {
+      "Common Cold": 0.65,
+      "Dengue": 0.87,
+      "Typhoid": 0.78
+    }
+  },
+  {
+    "id": "Q16",
+    "query": "Fever with red spots all over my body, itching, tiredness and loss of appetite",
+    "symptoms": [
+      "mild fever",
+      "red spots over body",
+      "itching",
+      "fatigue",
+      "loss of appetite"
+    ],
+    "relevance": {
+      "Chicken pox": 2,
+      "Dengue": 1,
+      "Tuberculosis": 1
+    },
+    "severity_overlap": {
+      "Dengue": 0.65,
+      "Tuberculosis": 0.76
+    }
+  },
+  {
+    "id": "Q17",
+    "query": "High fever, pain behind the eyes, joint pain, body aches and a skin rash",
+    "symptoms": [
+      "high fever",
+      "pain behind the eyes",
+      "joint pain",
+      "muscle pain",
+      "skin rash"
+    ],
+    "relevance": {
+      "Dengue": 2,
+      "Chicken pox": 1,
+      "Malaria": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q18",
+    "query": "High fever for days, belly pain, constipation, headache and a toxic look",
+    "symptoms": [
+      "high fever",
+      "belly pain",
+      "constipation",
+      "headache",
+      "toxic look (typhos)"
+    ],
+    "relevance": {
+      "Typhoid": 2,
+      "Malaria": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q19",
+    "query": "Yellow eyes, dark urine, joint pain, mild fever and diarrhoea",
+    "symptoms": [
+      "yellowing of eyes",
+      "dark urine",
+      "joint pain",
+      "mild fever",
+      "diarrhoea"
+    ],
+    "relevance": {
+      "hepatitis A": 2,
+      "Hepatitis E": 1,
+      "Hepatitis D": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q20",
+    "query": "Yellow skin and fatigue after receiving a blood transfusion and unsterile injections",
+    "symptoms": [
+      "yellowish skin",
+      "fatigue",
+      "receiving blood transfusion",
+      "receiving unsterile injections"
+    ],
+    "relevance": {
+      "Hepatitis B": 2,
+      "Hepatitis C": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q21",
+    "query": "Yelow skin, vomiting, swelling of stomach and a history of alcohol consumption",
+    "symptoms": [
+      "yellowish skin",
+      "vomiting",
+      "swelling of stomach",
+      "history of alcohol consumption"
+    ],
+    "relevance": {
+      "Alcoholic hepatitis": 2,
+      "Hepatitis E": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q22",
+    "query": "Crushing chest pain, sweating heavily, vomiting and short of breath",
+    "symptoms": [
+      "chest pain",
+      "sweating",
+      "vomiting",
+      "breathlessness"
+    ],
+    "relevance": {
+      "Heart attack": 2,
+      "GERD": 1,
+      "Pneumonia": 1,
+      "Tuberculosis": 1
+    },
+    "severity_overlap": {
+      "GERD": 0.63,
+      "Pneumonia": 0.74,
+      "Tuberculosis": 1.0
+    }
+  },
+  {
+    "id": "Q23",
+    "query": "Racing heart, excessive sweating, weight loss, mood swings and abnormal menstruation",
+    "symptoms": [
+      "fast heart rate",
+      "sweating",
+      "weight loss",
+      "mood swings",
+      "abnormal menstruation"
+    ],
+    "relevance": {
+      "Hyperthyroidism": 2,
+      "Hypothyroidism": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q24",
+    "query": "Sweating, anxiety, palpitations, slurred speech, tingling lips and excessive hunger",
+    "symptoms": [
+      "sweating",
+      "anxiety",
+      "palpitations",
+      "slurred speech",
+      "drying and tingling lips",
+      "excessive hunger"
+    ],
+    "relevance": {
+      "Hypoglycemia": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q25",
+    "query": "Weight gain, cold hands and feet, puffy face and eyes, brittle nails and depression",
+    "symptoms": [
+      "weight gain",
+      "cold hands and feets",
+      "puffy face and eyes",
+      "brittle nails",
+      "depression"
+    ],
+    "relevance": {
+      "Hypothyroidism": 2,
+      "Hyperthyroidism": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q26",
+    "query": "Red sore around the nose, blisters with yellow crust oozing and high fever",
+    "symptoms": [
+      "red sore around nose",
+      "blister",
+      "yellow crust ooze",
+      "high fever"
+    ],
+    "relevance": {
+      "Impetigo": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q27",
+    "query": "Knee pain, hip joint pain, swollen joints and painful walking",
+    "symptoms": [
+      "knee pain",
+      "hip joint pain",
+      "swelling joints",
+      "painful walking"
+    ],
+    "relevance": {
+      "Osteoarthristis": 2,
+      "Arthritis": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q28",
+    "query": "Muscle weakness, stiff neck, swelling joints and movement stiffness",
+    "symptoms": [
+      "muscle weakness",
+      "stiff neck",
+      "swelling joints",
+      "movement stiffness"
+    ],
+    "relevance": {
+      "Arthritis": 2,
+      "Osteoarthristis": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q29",
+    "query": "Indigestion, abdominal pain, passing gas, loss of appetite and vomiting",
+    "symptoms": [
+      "indigestion",
+      "abdominal pain",
+      "passage of gases",
+      "loss of appetite",
+      "vomiting"
+    ],
+    "relevance": {
+      "Peptic ulcer diseae": 2,
+      "GERD": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q30",
+    "query": "High fever, cough with rusty sputum, chest pain, chills and fast heart rate",
+    "symptoms": [
+      "high fever",
+      "cough",
+      "rusty sputum",
+      "chest pain",
+      "chills",
+      "fast heart rate"
+    ],
+    "relevance": {
+      "Pneumonia": 2,
+      "Common Cold": 1,
+      "Tuberculosis": 1,
+      "Bronchial Asthma": 1
+    },
+    "severity_overlap": {
+      "Common Cold": 0.7,
+      "Tuberculosis": 0.7
+    }
+  },
+  {
+    "id": "Q31",
+    "query": "Skin peeling, silver like dusting on the skin, joint pain and small dents in nails",
+    "symptoms": [
+      "skin peeling",
+      "silver like dusting",
+      "joint pain",
+      "small dents in nails"
+    ],
+    "relevance": {
+      "Psoriasis": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q32",
+    "query": "Persistant cough with blood in sputum, weigt loss, night sweats and mild fever",
+    "symptoms": [
+      "cough",
+      "blood in sputum",
+      "weight loss",
+      "sweating",
+      "mild fever"
+    ],
+    "relevance": {
+      "Tuberculosis": 2,
+      "Pneumonia": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q33",
+    "query": "Burning when I pee, bladder discomfort, smelly urine and a continuous feel of urine",
+    "symptoms": [
+      "burning micturition",
+      "bladder discomfort",
+      "foul smell of urine",
+      "continuous feel of urine"
+    ],
+    "relevance": {
+      "Urinary tract infection": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q34",
+    "query": "Swollen legs, prominent veins on my calf, cramps and bruising",
+    "symptoms": [
+      "swollen legs",
+      "prominent veins on calf",
+      "cramps",
+      "bruising"
+    ],
+    "relevance": {
+      "Varicose veins": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q35",
+    "query": "The room is spinning, nausea, vomiting, unsteadiness and loss of balance",
+    "symptoms": [
+      "spinning movements",
+      "nausea",
+      "vomiting",
+      "unsteadiness",
+      "loss of balance"
+    ],
+    "relevance": {
+      "(vertigo) Paroymsal Positional Vertigo": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q36",
+    "query": "Pus filled pimples, blackheads and a skin rash on my face",
+    "symptoms": [
+      "pus filled pimples",
+      "blackheads",
+      "skin rash"
+    ],
+    "relevance": {
+      "Acne": 2
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q37",
+    "query": "Runny nose, sneezing, sore throat, cough, congestion and loss of smell",
+    "symptoms": [
+      "runny nose",
+      "continuous sneezing",
+      "throat irritation",
+      "cough",
+      "congestion",
+      "loss of smell"
+    ],
+    "relevance": {
+      "Common Cold": 2,
+      "Allergy": 1
+    },
+    "severity_overlap": {}
+  },
+  {
+    "id": "Q38",
+    "query": "Muscle wasting, white patches in throat, high fever and extra marital contacts",
+    "symptoms": [
+      "muscle wasting",
+      "patches in throat",
+      "high fever",
+      "extra marital contacts"
+    ],
+    "relevance": {
+      "AIDS": 2
+    },
+    "severity_overlap": {}
+  }
+]

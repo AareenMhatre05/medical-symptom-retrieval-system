@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Symptom Search</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="22" height="22"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M10.5 7.5v6M7.5 10.5h6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </span>
+      <div>
+        <h1>Symptom-to-Condition Retrieval</h1>
+        <p class="sub">Information Retrieval lab project &middot; ranked (TF-IDF vector space) and Boolean retrieval</p>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button class="tab active" role="tab" data-tab="search" aria-selected="true">Search</button>
+      <button class="tab" role="tab" data-tab="lab" aria-selected="false">Lab experiments</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ============================== SEARCH ============================== -->
+    <section id="tab-search" class="tab-panel">
+      <form id="search-form" class="search-card" autocomplete="off">
+        <div class="mode-row">
+          <label for="query" class="label">Describe your symptoms</label>
+          <div class="mode-switch" role="radiogroup" aria-label="Answer mode">
+            <span class="mode-label">Answer mode</span>
+            <label><input type="radio" name="mode" value="ranked" checked><span>Ranked</span></label>
+            <label><input type="radio" name="mode" value="boolean"><span>Boolean</span></label>
+          </div>
+        </div>
+        <p id="mode-hint" class="hint"></p>
+        <div class="search-row">
+          <textarea id="query" rows="2" maxlength="1000"
+            placeholder="e.g. high fever with chills, sweating and a headache"></textarea>
+          <button type="submit" class="btn primary" id="search-btn">Search</button>
+        </div>
+        <div id="suggestions" class="chips suggest" aria-live="polite"></div>
+        <div class="options">
+          <label class="check"><input type="checkbox" id="opt-autocorrect" checked> Auto-correct spelling</label>
+          <label class="check"><input type="checkbox" id="opt-severity"> Severity weighting</label>
+          <label class="select">Normalisation
+            <select id="opt-method">
+              <option value="stem">Porter stemming</option>
+              <option value="lemma">WordNet lemmatization</option>
+            </select>
+          </label>
+        </div>
+        <div class="examples">
+          <span class="muted">Try:</span>
+          <button type="button" class="chip example">I keep sneezing, my eyes are watery and I have chills</button>
+          <button type="button" class="chip example">yellow skin, dark urine and stomach ache</button>
+          <button type="button" class="chip example">high feaver with chils and headake</button>
+          <button type="button" class="chip example">crushing chest pain, sweating and short of breath</button>
+          <button type="button" class="chip example" data-mode="boolean">fever AND rash NOT cough</button>
+          <button type="button" class="chip example" data-mode="boolean">(cough OR phlegm) AND "chest pain"</button>
+        </div>
+      </form>
+
+      <div id="status" class="status" role="status"></div>
+      <div id="results-area" hidden>
+        <div id="query-info" class="query-info"></div>
+        <ol id="results" class="results"></ol>
+
+        <details class="explain" id="explain">
+          <summary>How was this ranked?</summary>
+          <div id="explain-body"></div>
+        </details>
+
+        <section class="feedback-card" id="feedback-card">
+          <h2>Relevance feedback</h2>
+          <p class="muted">Mark results above as <b>relevant</b> or <b>not relevant</b>, choose a
+            method and re-rank. Unmarked results count as not relevant.</p>
+          <div class="feedback-row">
+            <label class="select">Method
+              <select id="fb-method">
+                <option value="rocchio">Rocchio</option>
+                <option value="ide_regular">Ide Regular</option>
+                <option value="ide_dec_hi">Ide Dec-Hi</option>
+              </select>
+            </label>
+            <button type="button" class="btn" id="fb-btn">Re-rank with feedback</button>
+          </div>
+          <div id="fb-output"></div>
+        </section>
+
+        <aside class="disclaimer" id="disclaimer" role="note"></aside>
+      </div>
+    </section>
+
+    <!-- ============================== LAB ============================== -->
+    <section id="tab-lab" class="tab-panel" hidden>
+      <div class="lab-grid">
+        <section class="card">
+          <h2><span class="exp">Exp 2</span> Preprocessing pipeline</h2>
+          <form id="pre-form" class="inline-form">
+            <input id="pre-text" type="text" maxlength="500"
+              value="I've got a stomach ache, high temperature and keep throwing up!">
+            <select id="pre-method">
+              <option value="stem">Porter stemming</option>
+              <option value="lemma">WordNet lemmatization</option>
+            </select>
+            <button class="btn" type="submit">Run</button>
+          </form>
+          <div id="pre-out"></div>
+        </section>
+
+        <section class="card">
+          <h2><span class="exp">Exp 5</span> Pattern matching</h2>
+          <form id="pat-form" class="inline-form">
+            <select id="pat-type">
+              <option value="wildcard">Wildcard (head*, ?ough)</option>
+              <option value="prefix">Prefix</option>
+              <option value="suffix">Suffix</option>
+              <option value="substring">Substring</option>
+              <option value="exact">Exact</option>
+              <option value="regex">Regular expression</option>
+              <option value="fuzzy">Fuzzy (Levenshtein)</option>
+              <option value="range">Lexical range</option>
+              <option value="suggest">Symptom suggestions</option>
+            </select>
+            <input id="pat-text" type="text" maxlength="60" value="head*">
+            <input id="pat-high" type="text" maxlength="40" placeholder="to (e.g. fever)" hidden>
+            <button class="btn" type="submit">Match</button>
+          </form>
+          <div id="pat-out"></div>
+        </section>
+
+        <section class="card">
+          <h2><span class="exp">Exp 7</span> Index structures</h2>
+          <p class="muted">Substring lookup with a vocabulary scan (inverted index), a suffix
+            array (binary search) and a generalised suffix trie.</p>
+          <button class="btn" id="idx-btn" type="button">Run comparison</button>
+          <div id="idx-out"></div>
+        </section>
+
+        <section class="card wide">
+          <h2><span class="exp">Exp 8</span> Evaluation results</h2>
+          <p class="muted">Saved by <code>python eval/run_evaluation.py</code>.</p>
+          <div id="eval-out"></div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span id="footer-info"></span>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

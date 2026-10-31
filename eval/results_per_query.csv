@@ -1,0 +1,2251 @@
+test_set,configuration,query_id,AP,NDCG@5,P@1,retrieved
+own,a) Boolean (AND),Q01,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q02,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q03,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q04,0.1429,0.6062,1.0,1
+own,a) Boolean (AND),Q05,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q06,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q07,0.3333,0.7262,1.0,1
+own,a) Boolean (AND),Q08,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q09,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q10,0.5,0.6309,0.0,2
+own,a) Boolean (AND),Q11,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q12,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q13,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q14,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q15,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q16,0.6667,0.879,1.0,2
+own,a) Boolean (AND),Q17,0.3333,0.7262,1.0,1
+own,a) Boolean (AND),Q18,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q19,0.3333,0.7262,1.0,1
+own,a) Boolean (AND),Q20,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q21,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q22,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q23,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q24,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q25,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q26,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q27,1.0,0.7967,1.0,2
+own,a) Boolean (AND),Q28,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q29,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q30,0.25,0.6577,1.0,1
+own,a) Boolean (AND),Q31,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q32,0.0,0.0,0.0,0
+own,a) Boolean (AND),Q33,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q34,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q35,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q36,1.0,1.0,1.0,1
+own,a) Boolean (AND),Q37,0.5,0.8262,1.0,1
+own,a) Boolean (AND),Q38,0.0,0.0,0.0,0
+own,a) Boolean (OR),Q01,0.0909,0.0,0.0,24
+own,a) Boolean (OR),Q02,0.75,0.9448,1.0,23
+own,a) Boolean (OR),Q03,0.0704,0.0,0.0,33
+own,a) Boolean (OR),Q04,0.2141,0.0,0.0,34
+own,a) Boolean (OR),Q05,0.0972,0.0,0.0,25
+own,a) Boolean (OR),Q06,0.0833,0.0,0.0,36
+own,a) Boolean (OR),Q07,0.1184,0.0,0.0,31
+own,a) Boolean (OR),Q08,0.1454,0.0,0.0,27
+own,a) Boolean (OR),Q09,0.2576,0.4131,0.0,13
+own,a) Boolean (OR),Q10,0.0476,0.0,0.0,36
+own,a) Boolean (OR),Q11,0.0625,0.0,0.0,22
+own,a) Boolean (OR),Q12,0.1667,0.0,0.0,36
+own,a) Boolean (OR),Q13,0.0345,0.0,0.0,35
+own,a) Boolean (OR),Q14,0.065,0.0,0.0,33
+own,a) Boolean (OR),Q15,0.1369,0.0,0.0,35
+own,a) Boolean (OR),Q16,0.1455,0.0,0.0,35
+own,a) Boolean (OR),Q17,0.1368,0.0,0.0,38
+own,a) Boolean (OR),Q18,0.0486,0.0,0.0,36
+own,a) Boolean (OR),Q19,0.0913,0.0,0.0,38
+own,a) Boolean (OR),Q20,0.0958,0.0,0.0,33
+own,a) Boolean (OR),Q21,0.2143,0.4131,0.0,35
+own,a) Boolean (OR),Q22,0.0979,0.0,0.0,37
+own,a) Boolean (OR),Q23,0.082,0.0,0.0,26
+own,a) Boolean (OR),Q24,0.1111,0.0,0.0,15
+own,a) Boolean (OR),Q25,0.085,0.0,0.0,28
+own,a) Boolean (OR),Q26,0.0526,0.0,0.0,28
+own,a) Boolean (OR),Q27,0.2083,0.1377,0.0,31
+own,a) Boolean (OR),Q28,0.1435,0.3196,0.0,31
+own,a) Boolean (OR),Q29,0.0656,0.0,0.0,37
+own,a) Boolean (OR),Q30,0.1637,0.0848,0.0,34
+own,a) Boolean (OR),Q31,0.0323,0.0,0.0,35
+own,a) Boolean (OR),Q32,0.0542,0.0,0.0,31
+own,a) Boolean (OR),Q33,0.0526,0.0,0.0,20
+own,a) Boolean (OR),Q34,0.0714,0.0,0.0,14
+own,a) Boolean (OR),Q35,1.0,1.0,1.0,31
+own,a) Boolean (OR),Q36,1.0,1.0,1.0,22
+own,a) Boolean (OR),Q37,0.2917,0.1377,0.0,33
+own,a) Boolean (OR),Q38,1.0,1.0,1.0,27
+own,b) VSM + stemming,Q01,1.0,1.0,1.0,24
+own,b) VSM + stemming,Q02,1.0,0.7967,1.0,23
+own,b) VSM + stemming,Q03,0.75,0.9448,1.0,33
+own,b) VSM + stemming,Q04,1.0,0.7699,1.0,34
+own,b) VSM + stemming,Q05,0.7,0.9328,1.0,25
+own,b) VSM + stemming,Q06,1.0,1.0,1.0,36
+own,b) VSM + stemming,Q07,0.6389,0.6201,0.0,31
+own,b) VSM + stemming,Q08,0.5667,0.7521,1.0,27
+own,b) VSM + stemming,Q09,0.7,0.9328,1.0,13
+own,b) VSM + stemming,Q10,1.0,1.0,1.0,36
+own,b) VSM + stemming,Q11,1.0,1.0,1.0,22
+own,b) VSM + stemming,Q12,1.0,1.0,1.0,36
+own,b) VSM + stemming,Q13,1.0,1.0,1.0,35
+own,b) VSM + stemming,Q14,0.75,0.9448,1.0,33
+own,b) VSM + stemming,Q15,0.4679,0.6577,1.0,35
+own,b) VSM + stemming,Q16,0.7917,0.879,1.0,35
+own,b) VSM + stemming,Q17,0.5873,0.7262,1.0,38
+own,b) VSM + stemming,Q18,0.75,0.9448,1.0,36
+own,b) VSM + stemming,Q19,0.8056,0.9515,1.0,38
+own,b) VSM + stemming,Q20,1.0,1.0,1.0,33
+own,b) VSM + stemming,Q21,0.5833,0.8262,1.0,35
+own,b) VSM + stemming,Q22,0.8333,0.9056,1.0,37
+own,b) VSM + stemming,Q23,1.0,1.0,1.0,26
+own,b) VSM + stemming,Q24,1.0,1.0,1.0,15
+own,b) VSM + stemming,Q25,0.5714,0.8262,1.0,28
+own,b) VSM + stemming,Q26,1.0,1.0,1.0,28
+own,b) VSM + stemming,Q27,1.0,0.7967,1.0,31
+own,b) VSM + stemming,Q28,1.0,1.0,1.0,31
+own,b) VSM + stemming,Q29,1.0,1.0,1.0,37
+own,b) VSM + stemming,Q30,0.8304,0.8904,1.0,34
+own,b) VSM + stemming,Q31,1.0,1.0,1.0,35
+own,b) VSM + stemming,Q32,0.8333,0.9639,1.0,31
+own,b) VSM + stemming,Q33,1.0,1.0,1.0,20
+own,b) VSM + stemming,Q34,1.0,1.0,1.0,14
+own,b) VSM + stemming,Q35,1.0,1.0,1.0,31
+own,b) VSM + stemming,Q36,1.0,1.0,1.0,22
+own,b) VSM + stemming,Q37,1.0,1.0,1.0,33
+own,b) VSM + stemming,Q38,1.0,1.0,1.0,27
+own,c) VSM + lemmatization,Q01,1.0,1.0,1.0,24
+own,c) VSM + lemmatization,Q02,1.0,0.7967,1.0,23
+own,c) VSM + lemmatization,Q03,0.8333,0.9639,1.0,32
+own,c) VSM + lemmatization,Q04,1.0,0.7699,1.0,34
+own,c) VSM + lemmatization,Q05,0.6667,0.8262,1.0,25
+own,c) VSM + lemmatization,Q06,1.0,1.0,1.0,31
+own,c) VSM + lemmatization,Q07,0.6389,0.6201,0.0,31
+own,c) VSM + lemmatization,Q08,0.525,0.8369,1.0,17
+own,c) VSM + lemmatization,Q09,0.7,0.9328,1.0,13
+own,c) VSM + lemmatization,Q10,1.0,1.0,1.0,35
+own,c) VSM + lemmatization,Q11,1.0,1.0,1.0,21
+own,c) VSM + lemmatization,Q12,1.0,1.0,1.0,35
+own,c) VSM + lemmatization,Q13,1.0,1.0,1.0,34
+own,c) VSM + lemmatization,Q14,0.7,0.9328,1.0,33
+own,c) VSM + lemmatization,Q15,0.4734,0.6577,1.0,34
+own,c) VSM + lemmatization,Q16,0.7917,0.879,1.0,35
+own,c) VSM + lemmatization,Q17,0.6667,0.8305,1.0,38
+own,c) VSM + lemmatization,Q18,0.75,0.9448,1.0,36
+own,c) VSM + lemmatization,Q19,0.8056,0.9515,1.0,36
+own,c) VSM + lemmatization,Q20,1.0,1.0,1.0,33
+own,c) VSM + lemmatization,Q21,0.5909,0.8262,1.0,36
+own,c) VSM + lemmatization,Q22,0.8409,0.9056,1.0,36
+own,c) VSM + lemmatization,Q23,1.0,1.0,1.0,25
+own,c) VSM + lemmatization,Q24,1.0,1.0,1.0,14
+own,c) VSM + lemmatization,Q25,0.5625,0.8262,1.0,28
+own,c) VSM + lemmatization,Q26,1.0,1.0,1.0,28
+own,c) VSM + lemmatization,Q27,1.0,1.0,1.0,32
+own,c) VSM + lemmatization,Q28,0.75,0.9448,1.0,30
+own,c) VSM + lemmatization,Q29,1.0,1.0,1.0,36
+own,c) VSM + lemmatization,Q30,0.8304,0.8904,1.0,33
+own,c) VSM + lemmatization,Q31,1.0,1.0,1.0,35
+own,c) VSM + lemmatization,Q32,1.0,1.0,1.0,31
+own,c) VSM + lemmatization,Q33,1.0,1.0,1.0,20
+own,c) VSM + lemmatization,Q34,1.0,1.0,1.0,19
+own,c) VSM + lemmatization,Q35,1.0,1.0,1.0,31
+own,c) VSM + lemmatization,Q36,1.0,1.0,1.0,22
+own,c) VSM + lemmatization,Q37,1.0,1.0,1.0,30
+own,c) VSM + lemmatization,Q38,1.0,1.0,1.0,27
+own,d) VSM + fuzzy correction,Q01,1.0,1.0,1.0,24
+own,d) VSM + fuzzy correction,Q02,1.0,0.7967,1.0,23
+own,d) VSM + fuzzy correction,Q03,0.75,0.9448,1.0,33
+own,d) VSM + fuzzy correction,Q04,1.0,0.7699,1.0,34
+own,d) VSM + fuzzy correction,Q05,0.7,0.9328,1.0,25
+own,d) VSM + fuzzy correction,Q06,1.0,1.0,1.0,36
+own,d) VSM + fuzzy correction,Q07,0.6389,0.6201,0.0,31
+own,d) VSM + fuzzy correction,Q08,0.8125,0.8904,1.0,28
+own,d) VSM + fuzzy correction,Q09,0.7,0.9328,1.0,13
+own,d) VSM + fuzzy correction,Q10,1.0,1.0,1.0,36
+own,d) VSM + fuzzy correction,Q11,1.0,1.0,1.0,22
+own,d) VSM + fuzzy correction,Q12,1.0,1.0,1.0,36
+own,d) VSM + fuzzy correction,Q13,1.0,1.0,1.0,35
+own,d) VSM + fuzzy correction,Q14,0.75,0.9448,1.0,33
+own,d) VSM + fuzzy correction,Q15,0.8542,0.8904,1.0,39
+own,d) VSM + fuzzy correction,Q16,0.7917,0.879,1.0,35
+own,d) VSM + fuzzy correction,Q17,0.5873,0.7262,1.0,38
+own,d) VSM + fuzzy correction,Q18,0.75,0.9448,1.0,36
+own,d) VSM + fuzzy correction,Q19,0.8056,0.9515,1.0,38
+own,d) VSM + fuzzy correction,Q20,1.0,1.0,1.0,33
+own,d) VSM + fuzzy correction,Q21,0.6667,0.8262,1.0,35
+own,d) VSM + fuzzy correction,Q22,0.8333,0.9056,1.0,37
+own,d) VSM + fuzzy correction,Q23,1.0,1.0,1.0,26
+own,d) VSM + fuzzy correction,Q24,1.0,1.0,1.0,15
+own,d) VSM + fuzzy correction,Q25,0.5714,0.8262,1.0,28
+own,d) VSM + fuzzy correction,Q26,1.0,1.0,1.0,28
+own,d) VSM + fuzzy correction,Q27,1.0,0.7967,1.0,31
+own,d) VSM + fuzzy correction,Q28,1.0,1.0,1.0,31
+own,d) VSM + fuzzy correction,Q29,1.0,1.0,1.0,37
+own,d) VSM + fuzzy correction,Q30,0.8304,0.8904,1.0,34
+own,d) VSM + fuzzy correction,Q31,1.0,1.0,1.0,35
+own,d) VSM + fuzzy correction,Q32,0.8333,0.9639,1.0,32
+own,d) VSM + fuzzy correction,Q33,1.0,1.0,1.0,20
+own,d) VSM + fuzzy correction,Q34,1.0,1.0,1.0,14
+own,d) VSM + fuzzy correction,Q35,1.0,1.0,1.0,31
+own,d) VSM + fuzzy correction,Q36,1.0,1.0,1.0,22
+own,d) VSM + fuzzy correction,Q37,1.0,1.0,1.0,33
+own,d) VSM + fuzzy correction,Q38,1.0,1.0,1.0,27
+own,e) VSM + severity weighting,Q01,1.0,1.0,1.0,24
+own,e) VSM + severity weighting,Q02,1.0,0.7967,1.0,23
+own,e) VSM + severity weighting,Q03,0.75,0.9448,1.0,33
+own,e) VSM + severity weighting,Q04,1.0,0.7699,1.0,34
+own,e) VSM + severity weighting,Q05,0.75,0.9448,1.0,25
+own,e) VSM + severity weighting,Q06,1.0,1.0,1.0,36
+own,e) VSM + severity weighting,Q07,0.6389,0.6201,0.0,31
+own,e) VSM + severity weighting,Q08,0.5769,0.7521,1.0,27
+own,e) VSM + severity weighting,Q09,0.75,0.9448,1.0,13
+own,e) VSM + severity weighting,Q10,1.0,1.0,1.0,36
+own,e) VSM + severity weighting,Q11,1.0,1.0,1.0,22
+own,e) VSM + severity weighting,Q12,1.0,1.0,1.0,36
+own,e) VSM + severity weighting,Q13,1.0,1.0,1.0,35
+own,e) VSM + severity weighting,Q14,0.75,0.9448,1.0,33
+own,e) VSM + severity weighting,Q15,0.4521,0.6577,1.0,35
+own,e) VSM + severity weighting,Q16,0.8095,0.879,1.0,35
+own,e) VSM + severity weighting,Q17,0.6667,0.8305,1.0,38
+own,e) VSM + severity weighting,Q18,0.75,0.9448,1.0,36
+own,e) VSM + severity weighting,Q19,0.8056,0.9515,1.0,38
+own,e) VSM + severity weighting,Q20,1.0,1.0,1.0,33
+own,e) VSM + severity weighting,Q21,0.5769,0.8262,1.0,35
+own,e) VSM + severity weighting,Q22,0.8409,0.9056,1.0,37
+own,e) VSM + severity weighting,Q23,1.0,1.0,1.0,26
+own,e) VSM + severity weighting,Q24,1.0,1.0,1.0,15
+own,e) VSM + severity weighting,Q25,0.5625,0.8262,1.0,28
+own,e) VSM + severity weighting,Q26,1.0,1.0,1.0,28
+own,e) VSM + severity weighting,Q27,1.0,0.7967,1.0,31
+own,e) VSM + severity weighting,Q28,1.0,1.0,1.0,31
+own,e) VSM + severity weighting,Q29,1.0,1.0,1.0,37
+own,e) VSM + severity weighting,Q30,0.747,0.8617,1.0,34
+own,e) VSM + severity weighting,Q31,1.0,1.0,1.0,35
+own,e) VSM + severity weighting,Q32,0.8333,0.9639,1.0,31
+own,e) VSM + severity weighting,Q33,1.0,1.0,1.0,20
+own,e) VSM + severity weighting,Q34,1.0,1.0,1.0,14
+own,e) VSM + severity weighting,Q35,1.0,1.0,1.0,31
+own,e) VSM + severity weighting,Q36,1.0,1.0,1.0,22
+own,e) VSM + severity weighting,Q37,1.0,1.0,1.0,33
+own,e) VSM + severity weighting,Q38,1.0,1.0,1.0,27
+own,f) VSM + Rocchio (PRF),Q01,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q02,1.0,0.7967,1.0,41
+own,f) VSM + Rocchio (PRF),Q03,0.75,0.9448,1.0,41
+own,f) VSM + Rocchio (PRF),Q04,1.0,0.5958,1.0,41
+own,f) VSM + Rocchio (PRF),Q05,0.6429,0.8262,1.0,41
+own,f) VSM + Rocchio (PRF),Q06,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q07,0.6389,0.6201,0.0,41
+own,f) VSM + Rocchio (PRF),Q08,0.4333,0.7425,1.0,41
+own,f) VSM + Rocchio (PRF),Q09,0.75,0.9448,1.0,41
+own,f) VSM + Rocchio (PRF),Q10,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q11,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q12,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q13,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q14,0.7,0.9328,1.0,41
+own,f) VSM + Rocchio (PRF),Q15,0.5571,0.7425,1.0,41
+own,f) VSM + Rocchio (PRF),Q16,0.75,0.879,1.0,41
+own,f) VSM + Rocchio (PRF),Q17,0.6429,0.8305,1.0,41
+own,f) VSM + Rocchio (PRF),Q18,0.6429,0.8262,1.0,41
+own,f) VSM + Rocchio (PRF),Q19,0.9167,0.9832,1.0,41
+own,f) VSM + Rocchio (PRF),Q20,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q21,0.7,0.9328,1.0,41
+own,f) VSM + Rocchio (PRF),Q22,0.8214,0.9056,1.0,41
+own,f) VSM + Rocchio (PRF),Q23,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q24,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q25,0.625,0.8262,1.0,41
+own,f) VSM + Rocchio (PRF),Q26,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q27,1.0,0.7967,1.0,41
+own,f) VSM + Rocchio (PRF),Q28,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q29,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q30,0.8875,0.9752,1.0,41
+own,f) VSM + Rocchio (PRF),Q31,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q32,0.8333,0.9639,1.0,41
+own,f) VSM + Rocchio (PRF),Q33,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q34,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q35,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q36,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q37,1.0,1.0,1.0,41
+own,f) VSM + Rocchio (PRF),Q38,1.0,1.0,1.0,41
+own,g) VSM + Ide Regular (PRF),Q01,1.0,1.0,1.0,40
+own,g) VSM + Ide Regular (PRF),Q02,1.0,0.7967,1.0,38
+own,g) VSM + Ide Regular (PRF),Q03,0.75,0.9448,1.0,38
+own,g) VSM + Ide Regular (PRF),Q04,1.0,0.5958,1.0,41
+own,g) VSM + Ide Regular (PRF),Q05,0.6,0.8262,1.0,36
+own,g) VSM + Ide Regular (PRF),Q06,1.0,1.0,1.0,35
+own,g) VSM + Ide Regular (PRF),Q07,0.8056,0.7094,1.0,33
+own,g) VSM + Ide Regular (PRF),Q08,0.3591,0.6577,1.0,36
+own,g) VSM + Ide Regular (PRF),Q09,0.75,0.9448,1.0,41
+own,g) VSM + Ide Regular (PRF),Q10,1.0,1.0,1.0,39
+own,g) VSM + Ide Regular (PRF),Q11,1.0,1.0,1.0,38
+own,g) VSM + Ide Regular (PRF),Q12,1.0,1.0,1.0,40
+own,g) VSM + Ide Regular (PRF),Q13,1.0,1.0,1.0,37
+own,g) VSM + Ide Regular (PRF),Q14,0.45,0.6278,0.0,40
+own,g) VSM + Ide Regular (PRF),Q15,0.4625,0.6577,1.0,36
+own,g) VSM + Ide Regular (PRF),Q16,0.4603,0.5792,0.0,41
+own,g) VSM + Ide Regular (PRF),Q17,0.5576,0.8199,1.0,41
+own,g) VSM + Ide Regular (PRF),Q18,0.2917,0.5213,0.0,38
+own,g) VSM + Ide Regular (PRF),Q19,0.8667,0.7939,1.0,38
+own,g) VSM + Ide Regular (PRF),Q20,1.0,1.0,1.0,39
+own,g) VSM + Ide Regular (PRF),Q21,0.5303,0.8262,1.0,34
+own,g) VSM + Ide Regular (PRF),Q22,0.8,0.9056,1.0,39
+own,g) VSM + Ide Regular (PRF),Q23,1.0,1.0,1.0,36
+own,g) VSM + Ide Regular (PRF),Q24,1.0,1.0,1.0,41
+own,g) VSM + Ide Regular (PRF),Q25,0.55,0.8262,1.0,39
+own,g) VSM + Ide Regular (PRF),Q26,1.0,1.0,1.0,37
+own,g) VSM + Ide Regular (PRF),Q27,1.0,1.0,1.0,38
+own,g) VSM + Ide Regular (PRF),Q28,1.0,1.0,1.0,39
+own,g) VSM + Ide Regular (PRF),Q29,1.0,0.7967,1.0,39
+own,g) VSM + Ide Regular (PRF),Q30,0.7153,0.8617,1.0,36
+own,g) VSM + Ide Regular (PRF),Q31,1.0,1.0,1.0,36
+own,g) VSM + Ide Regular (PRF),Q32,0.8333,0.9639,1.0,38
+own,g) VSM + Ide Regular (PRF),Q33,1.0,1.0,1.0,38
+own,g) VSM + Ide Regular (PRF),Q34,1.0,1.0,1.0,41
+own,g) VSM + Ide Regular (PRF),Q35,1.0,1.0,1.0,33
+own,g) VSM + Ide Regular (PRF),Q36,1.0,1.0,1.0,35
+own,g) VSM + Ide Regular (PRF),Q37,1.0,1.0,1.0,39
+own,g) VSM + Ide Regular (PRF),Q38,1.0,1.0,1.0,36
+own,h) VSM + Ide Dec-Hi (PRF),Q01,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q02,1.0,0.7967,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q03,0.75,0.9448,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q04,1.0,0.5958,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q05,0.2436,0.4131,0.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q06,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q07,0.8333,0.7003,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q08,0.3851,0.6577,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q09,0.75,0.9448,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q10,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q11,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q12,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q13,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q14,0.3667,0.5197,0.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q15,0.5833,0.7521,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q16,0.7255,0.879,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q17,0.6429,0.8305,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q18,0.6,0.8262,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q19,0.8667,0.9726,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q20,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q21,0.7,0.9328,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q22,0.8026,0.7438,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q23,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q24,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q25,0.6429,0.8262,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q26,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q27,1.0,0.7967,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q28,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q29,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q30,0.8875,0.9752,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q31,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q32,0.8333,0.9639,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q33,0.3333,0.5,0.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q34,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q35,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q36,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q37,1.0,1.0,1.0,41
+own,h) VSM + Ide Dec-Hi (PRF),Q38,1.0,1.0,1.0,41
+s2d,a) Boolean (AND),S2D-001,0.5,0.6309,0.0,2
+s2d,a) Boolean (AND),S2D-002,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-003,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-004,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-005,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-006,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-007,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-008,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-009,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-010,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-011,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-012,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-013,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-014,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-015,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-016,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-017,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-018,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-019,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-020,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-021,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-022,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-023,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-024,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-025,1.0,1.0,1.0,2
+s2d,a) Boolean (AND),S2D-026,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-027,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-028,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-029,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-030,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-031,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-032,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-033,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-034,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-035,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-036,1.0,1.0,1.0,2
+s2d,a) Boolean (AND),S2D-037,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-038,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-039,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-040,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-041,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-042,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-043,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-044,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-045,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-046,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-047,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-048,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-049,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-050,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-051,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-052,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-053,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-054,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-055,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-056,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-057,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-058,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-059,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-060,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-061,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-062,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-063,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-064,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-065,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-066,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-067,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-068,0.5,0.6309,0.0,2
+s2d,a) Boolean (AND),S2D-069,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-070,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-071,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-072,0.5,0.6309,0.0,2
+s2d,a) Boolean (AND),S2D-073,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-074,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-075,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-076,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-077,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-078,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-079,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-080,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-081,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-082,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-083,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-084,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-085,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-086,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-087,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-088,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-089,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-090,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-091,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-092,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-093,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-094,1.0,1.0,1.0,2
+s2d,a) Boolean (AND),S2D-095,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-096,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-097,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-098,0.0,0.0,0.0,1
+s2d,a) Boolean (AND),S2D-099,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-100,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-101,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-102,0.5,0.6309,0.0,2
+s2d,a) Boolean (AND),S2D-103,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-104,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-105,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-106,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-107,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-108,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-109,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-110,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-111,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-112,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-113,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-114,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-115,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-116,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-117,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-118,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-119,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-120,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-121,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-122,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-123,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-124,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-125,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-126,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-127,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-128,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-129,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-130,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-131,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-132,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-133,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-134,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-135,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-136,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-137,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-138,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-139,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-140,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-141,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-142,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-143,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-144,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-145,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-146,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-147,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-148,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-149,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-150,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-151,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-152,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-153,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-154,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-155,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-156,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-157,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-158,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-159,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-160,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-161,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-162,0.5,0.6309,0.0,2
+s2d,a) Boolean (AND),S2D-163,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-164,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-165,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-166,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-167,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-168,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-169,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-170,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-171,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-172,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-173,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-174,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-175,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-176,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-177,1.0,1.0,1.0,2
+s2d,a) Boolean (AND),S2D-178,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-179,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-180,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-181,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-182,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-183,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-184,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-185,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-186,1.0,1.0,1.0,3
+s2d,a) Boolean (AND),S2D-187,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-188,0.0,0.0,0.0,1
+s2d,a) Boolean (AND),S2D-189,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-190,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-191,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-192,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-193,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-194,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-195,1.0,1.0,1.0,3
+s2d,a) Boolean (AND),S2D-196,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-197,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-198,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-199,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-200,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-201,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-202,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-203,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-204,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-205,1.0,1.0,1.0,3
+s2d,a) Boolean (AND),S2D-206,0.5,0.6309,0.0,2
+s2d,a) Boolean (AND),S2D-207,0.0,0.0,0.0,2
+s2d,a) Boolean (AND),S2D-208,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-209,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-210,1.0,1.0,1.0,1
+s2d,a) Boolean (AND),S2D-211,0.0,0.0,0.0,0
+s2d,a) Boolean (AND),S2D-212,0.0,0.0,0.0,0
+s2d,a) Boolean (OR),S2D-001,0.0455,0.0,0.0,27
+s2d,a) Boolean (OR),S2D-002,0.0526,0.0,0.0,24
+s2d,a) Boolean (OR),S2D-003,0.0909,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-004,0.0476,0.0,0.0,26
+s2d,a) Boolean (OR),S2D-005,0.0833,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-006,0.1667,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-007,0.0625,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-008,0.0323,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-009,0.25,0.4307,0.0,31
+s2d,a) Boolean (OR),S2D-010,0.0435,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-011,0.3333,0.5,0.0,30
+s2d,a) Boolean (OR),S2D-012,0.25,0.4307,0.0,24
+s2d,a) Boolean (OR),S2D-013,0.04,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-014,0.0323,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-015,0.0357,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-016,0.04,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-017,0.0588,0.0,0.0,25
+s2d,a) Boolean (OR),S2D-018,0.25,0.4307,0.0,28
+s2d,a) Boolean (OR),S2D-019,0.125,0.0,0.0,23
+s2d,a) Boolean (OR),S2D-020,0.0357,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-021,0.037,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-022,0.0345,0.0,0.0,39
+s2d,a) Boolean (OR),S2D-023,0.0714,0.0,0.0,32
+s2d,a) Boolean (OR),S2D-024,0.037,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-025,0.1667,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-026,0.3333,0.5,0.0,34
+s2d,a) Boolean (OR),S2D-027,0.0417,0.0,0.0,25
+s2d,a) Boolean (OR),S2D-028,0.2,0.3869,0.0,32
+s2d,a) Boolean (OR),S2D-029,0.0909,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-030,0.0345,0.0,0.0,40
+s2d,a) Boolean (OR),S2D-031,0.027,0.0,0.0,39
+s2d,a) Boolean (OR),S2D-032,0.2,0.3869,0.0,31
+s2d,a) Boolean (OR),S2D-033,0.0476,0.0,0.0,26
+s2d,a) Boolean (OR),S2D-034,0.25,0.4307,0.0,31
+s2d,a) Boolean (OR),S2D-035,0.1667,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-036,0.0667,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-037,0.0455,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-038,0.1111,0.0,0.0,15
+s2d,a) Boolean (OR),S2D-039,0.0294,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-040,0.0769,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-041,0.1429,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-042,0.0476,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-043,0.3333,0.5,0.0,30
+s2d,a) Boolean (OR),S2D-044,0.0417,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-045,0.0625,0.0,0.0,23
+s2d,a) Boolean (OR),S2D-046,0.2,0.3869,0.0,18
+s2d,a) Boolean (OR),S2D-047,0.125,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-048,0.0476,0.0,0.0,24
+s2d,a) Boolean (OR),S2D-049,0.0278,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-050,0.1,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-051,0.1,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-052,0.2,0.3869,0.0,27
+s2d,a) Boolean (OR),S2D-053,0.04,0.0,0.0,32
+s2d,a) Boolean (OR),S2D-054,0.2,0.3869,0.0,33
+s2d,a) Boolean (OR),S2D-055,0.0385,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-056,0.0345,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-057,0.0357,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-058,0.1429,0.0,0.0,24
+s2d,a) Boolean (OR),S2D-059,0.1,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-060,0.0357,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-061,0.0667,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-062,0.25,0.4307,0.0,24
+s2d,a) Boolean (OR),S2D-063,0.0294,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-064,0.1429,0.0,0.0,24
+s2d,a) Boolean (OR),S2D-065,0.0714,0.0,0.0,24
+s2d,a) Boolean (OR),S2D-066,0.0417,0.0,0.0,27
+s2d,a) Boolean (OR),S2D-067,0.1667,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-068,0.037,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-069,0.1667,0.0,0.0,21
+s2d,a) Boolean (OR),S2D-070,0.1111,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-071,0.125,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-072,0.125,0.0,0.0,32
+s2d,a) Boolean (OR),S2D-073,0.037,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-074,0.0333,0.0,0.0,41
+s2d,a) Boolean (OR),S2D-075,0.0357,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-076,0.1429,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-077,0.0833,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-078,0.0294,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-079,0.0833,0.0,0.0,22
+s2d,a) Boolean (OR),S2D-080,0.0417,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-081,0.037,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-082,0.0909,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-083,0.25,0.4307,0.0,35
+s2d,a) Boolean (OR),S2D-084,0.25,0.4307,0.0,35
+s2d,a) Boolean (OR),S2D-085,0.0833,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-086,0.25,0.4307,0.0,35
+s2d,a) Boolean (OR),S2D-087,0.125,0.0,0.0,22
+s2d,a) Boolean (OR),S2D-088,0.0417,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-089,0.0345,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-090,0.25,0.4307,0.0,37
+s2d,a) Boolean (OR),S2D-091,0.0476,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-092,0.1429,0.0,0.0,29
+s2d,a) Boolean (OR),S2D-093,0.0357,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-094,0.1667,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-095,0.3333,0.5,0.0,33
+s2d,a) Boolean (OR),S2D-096,0.25,0.4307,0.0,37
+s2d,a) Boolean (OR),S2D-097,0.0909,0.0,0.0,40
+s2d,a) Boolean (OR),S2D-098,0.1429,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-099,0.0909,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-100,0.0417,0.0,0.0,24
+s2d,a) Boolean (OR),S2D-101,0.0357,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-102,0.0476,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-103,0.0323,0.0,0.0,32
+s2d,a) Boolean (OR),S2D-104,0.0588,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-105,0.3333,0.5,0.0,28
+s2d,a) Boolean (OR),S2D-106,0.3333,0.5,0.0,35
+s2d,a) Boolean (OR),S2D-107,0.1,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-108,0.1667,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-109,0.0526,0.0,0.0,29
+s2d,a) Boolean (OR),S2D-110,0.0714,0.0,0.0,29
+s2d,a) Boolean (OR),S2D-111,0.0769,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-112,0.0909,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-113,0.0417,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-114,0.1111,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-115,0.0909,0.0,0.0,23
+s2d,a) Boolean (OR),S2D-116,0.0333,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-117,0.04,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-118,0.1667,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-119,0.0833,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-120,0.0476,0.0,0.0,24
+s2d,a) Boolean (OR),S2D-121,0.0345,0.0,0.0,39
+s2d,a) Boolean (OR),S2D-122,0.3333,0.5,0.0,25
+s2d,a) Boolean (OR),S2D-123,0.0303,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-124,0.0714,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-125,0.05,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-126,0.1667,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-127,0.0769,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-128,0.0833,0.0,0.0,19
+s2d,a) Boolean (OR),S2D-129,0.25,0.4307,0.0,34
+s2d,a) Boolean (OR),S2D-130,0.0385,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-131,0.1667,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-132,0.0357,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-133,0.0286,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-134,0.1111,0.0,0.0,25
+s2d,a) Boolean (OR),S2D-135,0.037,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-136,0.125,0.0,0.0,21
+s2d,a) Boolean (OR),S2D-137,0.0417,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-138,0.1429,0.0,0.0,7
+s2d,a) Boolean (OR),S2D-139,0.0278,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-140,0.0294,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-141,0.0333,0.0,0.0,40
+s2d,a) Boolean (OR),S2D-142,0.0278,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-143,0.04,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-144,0.05,0.0,0.0,22
+s2d,a) Boolean (OR),S2D-145,0.0588,0.0,0.0,17
+s2d,a) Boolean (OR),S2D-146,0.1429,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-147,0.037,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-148,0.0455,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-149,0.25,0.4307,0.0,33
+s2d,a) Boolean (OR),S2D-150,0.0455,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-151,0.04,0.0,0.0,25
+s2d,a) Boolean (OR),S2D-152,0.0333,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-153,0.0312,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-154,0.0357,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-155,0.0323,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-156,0.05,0.0,0.0,27
+s2d,a) Boolean (OR),S2D-157,0.25,0.4307,0.0,32
+s2d,a) Boolean (OR),S2D-158,0.0333,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-159,0.0385,0.0,0.0,29
+s2d,a) Boolean (OR),S2D-160,0.0909,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-161,0.0909,0.0,0.0,40
+s2d,a) Boolean (OR),S2D-162,0.125,0.0,0.0,13
+s2d,a) Boolean (OR),S2D-163,0.05,0.0,0.0,25
+s2d,a) Boolean (OR),S2D-164,0.5,0.6309,0.0,29
+s2d,a) Boolean (OR),S2D-165,0.0385,0.0,0.0,26
+s2d,a) Boolean (OR),S2D-166,0.0385,0.0,0.0,26
+s2d,a) Boolean (OR),S2D-167,0.0769,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-168,0.0256,0.0,0.0,39
+s2d,a) Boolean (OR),S2D-169,0.0714,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-170,0.1667,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-171,0.0286,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-172,0.0278,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-173,0.5,0.6309,0.0,28
+s2d,a) Boolean (OR),S2D-174,0.0833,0.0,0.0,27
+s2d,a) Boolean (OR),S2D-175,0.0833,0.0,0.0,33
+s2d,a) Boolean (OR),S2D-176,0.0345,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-177,0.3333,0.5,0.0,36
+s2d,a) Boolean (OR),S2D-178,0.0909,0.0,0.0,20
+s2d,a) Boolean (OR),S2D-179,0.0333,0.0,0.0,36
+s2d,a) Boolean (OR),S2D-180,0.1429,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-181,0.0417,0.0,0.0,26
+s2d,a) Boolean (OR),S2D-182,0.0714,0.0,0.0,26
+s2d,a) Boolean (OR),S2D-183,0.0333,0.0,0.0,40
+s2d,a) Boolean (OR),S2D-184,0.0417,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-185,0.0385,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-186,0.25,0.4307,0.0,31
+s2d,a) Boolean (OR),S2D-187,0.0476,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-188,0.1429,0.0,0.0,31
+s2d,a) Boolean (OR),S2D-189,0.0345,0.0,0.0,38
+s2d,a) Boolean (OR),S2D-190,0.04,0.0,0.0,27
+s2d,a) Boolean (OR),S2D-191,0.1111,0.0,0.0,37
+s2d,a) Boolean (OR),S2D-192,0.125,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-193,0.1429,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-194,0.04,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-195,0.25,0.4307,0.0,32
+s2d,a) Boolean (OR),S2D-196,0.1,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-197,0.3333,0.5,0.0,30
+s2d,a) Boolean (OR),S2D-198,0.1,0.0,0.0,28
+s2d,a) Boolean (OR),S2D-199,0.04,0.0,0.0,25
+s2d,a) Boolean (OR),S2D-200,0.5,0.6309,0.0,32
+s2d,a) Boolean (OR),S2D-201,0.0345,0.0,0.0,39
+s2d,a) Boolean (OR),S2D-202,0.0323,0.0,0.0,35
+s2d,a) Boolean (OR),S2D-203,0.3333,0.5,0.0,30
+s2d,a) Boolean (OR),S2D-204,0.0909,0.0,0.0,32
+s2d,a) Boolean (OR),S2D-205,0.3333,0.5,0.0,29
+s2d,a) Boolean (OR),S2D-206,0.04,0.0,0.0,30
+s2d,a) Boolean (OR),S2D-207,0.2,0.3869,0.0,29
+s2d,a) Boolean (OR),S2D-208,0.0909,0.0,0.0,40
+s2d,a) Boolean (OR),S2D-209,0.0323,0.0,0.0,34
+s2d,a) Boolean (OR),S2D-210,0.25,0.4307,0.0,33
+s2d,a) Boolean (OR),S2D-211,0.3333,0.5,0.0,28
+s2d,a) Boolean (OR),S2D-212,0.125,0.0,0.0,28
+s2d,b) VSM + stemming,S2D-001,0.5,0.6309,0.0,27
+s2d,b) VSM + stemming,S2D-002,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-003,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-004,1.0,1.0,1.0,26
+s2d,b) VSM + stemming,S2D-005,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-006,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-007,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-008,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-009,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-010,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-011,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-012,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-013,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-014,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-015,0.5,0.6309,0.0,34
+s2d,b) VSM + stemming,S2D-016,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-017,1.0,1.0,1.0,25
+s2d,b) VSM + stemming,S2D-018,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-019,1.0,1.0,1.0,23
+s2d,b) VSM + stemming,S2D-020,1.0,1.0,1.0,38
+s2d,b) VSM + stemming,S2D-021,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-022,1.0,1.0,1.0,39
+s2d,b) VSM + stemming,S2D-023,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-024,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-025,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-026,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-027,1.0,1.0,1.0,25
+s2d,b) VSM + stemming,S2D-028,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-029,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-030,1.0,1.0,1.0,40
+s2d,b) VSM + stemming,S2D-031,1.0,1.0,1.0,39
+s2d,b) VSM + stemming,S2D-032,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-033,1.0,1.0,1.0,26
+s2d,b) VSM + stemming,S2D-034,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-035,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-036,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-037,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-038,1.0,1.0,1.0,15
+s2d,b) VSM + stemming,S2D-039,0.5,0.6309,0.0,36
+s2d,b) VSM + stemming,S2D-040,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-041,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-042,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-043,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-044,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-045,1.0,1.0,1.0,23
+s2d,b) VSM + stemming,S2D-046,1.0,1.0,1.0,18
+s2d,b) VSM + stemming,S2D-047,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-048,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-049,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-050,1.0,1.0,1.0,38
+s2d,b) VSM + stemming,S2D-051,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-052,1.0,1.0,1.0,27
+s2d,b) VSM + stemming,S2D-053,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-054,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-055,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-056,1.0,1.0,1.0,38
+s2d,b) VSM + stemming,S2D-057,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-058,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-059,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-060,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-061,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-062,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-063,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-064,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-065,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-066,1.0,1.0,1.0,27
+s2d,b) VSM + stemming,S2D-067,0.5,0.6309,0.0,35
+s2d,b) VSM + stemming,S2D-068,0.5,0.6309,0.0,33
+s2d,b) VSM + stemming,S2D-069,0.25,0.4307,0.0,21
+s2d,b) VSM + stemming,S2D-070,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-071,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-072,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-073,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-074,1.0,1.0,1.0,41
+s2d,b) VSM + stemming,S2D-075,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-076,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-077,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-078,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-079,1.0,1.0,1.0,22
+s2d,b) VSM + stemming,S2D-080,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-081,1.0,1.0,1.0,38
+s2d,b) VSM + stemming,S2D-082,0.3333,0.5,0.0,37
+s2d,b) VSM + stemming,S2D-083,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-084,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-085,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-086,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-087,1.0,1.0,1.0,22
+s2d,b) VSM + stemming,S2D-088,0.3333,0.5,0.0,35
+s2d,b) VSM + stemming,S2D-089,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-090,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-091,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-092,1.0,1.0,1.0,29
+s2d,b) VSM + stemming,S2D-093,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-094,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-095,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-096,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-097,1.0,1.0,1.0,40
+s2d,b) VSM + stemming,S2D-098,0.5,0.6309,0.0,35
+s2d,b) VSM + stemming,S2D-099,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-100,1.0,1.0,1.0,24
+s2d,b) VSM + stemming,S2D-101,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-102,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-103,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-104,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-105,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-106,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-107,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-108,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-109,1.0,1.0,1.0,29
+s2d,b) VSM + stemming,S2D-110,0.5,0.6309,0.0,29
+s2d,b) VSM + stemming,S2D-111,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-112,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-113,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-114,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-115,1.0,1.0,1.0,23
+s2d,b) VSM + stemming,S2D-116,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-117,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-118,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-119,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-120,0.5,0.6309,0.0,24
+s2d,b) VSM + stemming,S2D-121,1.0,1.0,1.0,39
+s2d,b) VSM + stemming,S2D-122,0.5,0.6309,0.0,25
+s2d,b) VSM + stemming,S2D-123,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-124,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-125,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-126,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-127,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-128,0.5,0.6309,0.0,19
+s2d,b) VSM + stemming,S2D-129,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-130,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-131,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-132,0.5,0.6309,0.0,31
+s2d,b) VSM + stemming,S2D-133,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-134,1.0,1.0,1.0,25
+s2d,b) VSM + stemming,S2D-135,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-136,1.0,1.0,1.0,21
+s2d,b) VSM + stemming,S2D-137,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-138,1.0,1.0,1.0,7
+s2d,b) VSM + stemming,S2D-139,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-140,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-141,1.0,1.0,1.0,40
+s2d,b) VSM + stemming,S2D-142,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-143,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-144,1.0,1.0,1.0,22
+s2d,b) VSM + stemming,S2D-145,1.0,1.0,1.0,17
+s2d,b) VSM + stemming,S2D-146,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-147,0.5,0.6309,0.0,33
+s2d,b) VSM + stemming,S2D-148,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-149,0.5,0.6309,0.0,33
+s2d,b) VSM + stemming,S2D-150,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-151,1.0,1.0,1.0,25
+s2d,b) VSM + stemming,S2D-152,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-153,0.5,0.6309,0.0,38
+s2d,b) VSM + stemming,S2D-154,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-155,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-156,1.0,1.0,1.0,27
+s2d,b) VSM + stemming,S2D-157,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-158,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-159,1.0,1.0,1.0,29
+s2d,b) VSM + stemming,S2D-160,1.0,1.0,1.0,38
+s2d,b) VSM + stemming,S2D-161,1.0,1.0,1.0,40
+s2d,b) VSM + stemming,S2D-162,1.0,1.0,1.0,13
+s2d,b) VSM + stemming,S2D-163,1.0,1.0,1.0,25
+s2d,b) VSM + stemming,S2D-164,0.5,0.6309,0.0,29
+s2d,b) VSM + stemming,S2D-165,1.0,1.0,1.0,26
+s2d,b) VSM + stemming,S2D-166,1.0,1.0,1.0,26
+s2d,b) VSM + stemming,S2D-167,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-168,1.0,1.0,1.0,39
+s2d,b) VSM + stemming,S2D-169,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-170,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-171,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-172,1.0,1.0,1.0,38
+s2d,b) VSM + stemming,S2D-173,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-174,1.0,1.0,1.0,27
+s2d,b) VSM + stemming,S2D-175,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-176,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-177,0.5,0.6309,0.0,36
+s2d,b) VSM + stemming,S2D-178,1.0,1.0,1.0,20
+s2d,b) VSM + stemming,S2D-179,1.0,1.0,1.0,36
+s2d,b) VSM + stemming,S2D-180,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-181,0.5,0.6309,0.0,26
+s2d,b) VSM + stemming,S2D-182,1.0,1.0,1.0,26
+s2d,b) VSM + stemming,S2D-183,1.0,1.0,1.0,40
+s2d,b) VSM + stemming,S2D-184,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-185,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-186,0.5,0.6309,0.0,31
+s2d,b) VSM + stemming,S2D-187,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-188,1.0,1.0,1.0,31
+s2d,b) VSM + stemming,S2D-189,1.0,1.0,1.0,38
+s2d,b) VSM + stemming,S2D-190,0.5,0.6309,0.0,27
+s2d,b) VSM + stemming,S2D-191,1.0,1.0,1.0,37
+s2d,b) VSM + stemming,S2D-192,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-193,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-194,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-195,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-196,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-197,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-198,1.0,1.0,1.0,28
+s2d,b) VSM + stemming,S2D-199,1.0,1.0,1.0,25
+s2d,b) VSM + stemming,S2D-200,0.5,0.6309,0.0,32
+s2d,b) VSM + stemming,S2D-201,1.0,1.0,1.0,39
+s2d,b) VSM + stemming,S2D-202,1.0,1.0,1.0,35
+s2d,b) VSM + stemming,S2D-203,1.0,1.0,1.0,30
+s2d,b) VSM + stemming,S2D-204,1.0,1.0,1.0,32
+s2d,b) VSM + stemming,S2D-205,0.5,0.6309,0.0,29
+s2d,b) VSM + stemming,S2D-206,0.5,0.6309,0.0,30
+s2d,b) VSM + stemming,S2D-207,1.0,1.0,1.0,29
+s2d,b) VSM + stemming,S2D-208,0.5,0.6309,0.0,40
+s2d,b) VSM + stemming,S2D-209,1.0,1.0,1.0,34
+s2d,b) VSM + stemming,S2D-210,1.0,1.0,1.0,33
+s2d,b) VSM + stemming,S2D-211,0.5,0.6309,0.0,28
+s2d,b) VSM + stemming,S2D-212,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-001,0.5,0.6309,0.0,26
+s2d,c) VSM + lemmatization,S2D-002,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-003,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-004,1.0,1.0,1.0,26
+s2d,c) VSM + lemmatization,S2D-005,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-006,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-007,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-008,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-009,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-010,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-011,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-012,1.0,1.0,1.0,22
+s2d,c) VSM + lemmatization,S2D-013,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-014,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-015,0.5,0.6309,0.0,34
+s2d,c) VSM + lemmatization,S2D-016,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-017,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-018,1.0,1.0,1.0,26
+s2d,c) VSM + lemmatization,S2D-019,1.0,1.0,1.0,21
+s2d,c) VSM + lemmatization,S2D-020,1.0,1.0,1.0,38
+s2d,c) VSM + lemmatization,S2D-021,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-022,1.0,1.0,1.0,39
+s2d,c) VSM + lemmatization,S2D-023,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-024,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-025,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-026,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-027,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-028,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-029,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-030,1.0,1.0,1.0,40
+s2d,c) VSM + lemmatization,S2D-031,1.0,1.0,1.0,39
+s2d,c) VSM + lemmatization,S2D-032,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-033,1.0,1.0,1.0,26
+s2d,c) VSM + lemmatization,S2D-034,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-035,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-036,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-037,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-038,1.0,1.0,1.0,15
+s2d,c) VSM + lemmatization,S2D-039,0.5,0.6309,0.0,35
+s2d,c) VSM + lemmatization,S2D-040,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-041,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-042,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-043,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-044,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-045,1.0,1.0,1.0,23
+s2d,c) VSM + lemmatization,S2D-046,1.0,1.0,1.0,18
+s2d,c) VSM + lemmatization,S2D-047,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-048,1.0,1.0,1.0,24
+s2d,c) VSM + lemmatization,S2D-049,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-050,1.0,1.0,1.0,38
+s2d,c) VSM + lemmatization,S2D-051,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-052,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-053,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-054,0.5,0.6309,0.0,32
+s2d,c) VSM + lemmatization,S2D-055,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-056,1.0,1.0,1.0,38
+s2d,c) VSM + lemmatization,S2D-057,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-058,1.0,1.0,1.0,24
+s2d,c) VSM + lemmatization,S2D-059,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-060,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-061,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-062,1.0,1.0,1.0,24
+s2d,c) VSM + lemmatization,S2D-063,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-064,1.0,1.0,1.0,24
+s2d,c) VSM + lemmatization,S2D-065,1.0,1.0,1.0,24
+s2d,c) VSM + lemmatization,S2D-066,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-067,0.5,0.6309,0.0,34
+s2d,c) VSM + lemmatization,S2D-068,0.5,0.6309,0.0,33
+s2d,c) VSM + lemmatization,S2D-069,0.5,0.6309,0.0,16
+s2d,c) VSM + lemmatization,S2D-070,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-071,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-072,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-073,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-074,1.0,1.0,1.0,41
+s2d,c) VSM + lemmatization,S2D-075,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-076,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-077,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-078,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-079,1.0,1.0,1.0,22
+s2d,c) VSM + lemmatization,S2D-080,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-081,1.0,1.0,1.0,39
+s2d,c) VSM + lemmatization,S2D-082,0.3333,0.5,0.0,37
+s2d,c) VSM + lemmatization,S2D-083,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-084,1.0,1.0,1.0,29
+s2d,c) VSM + lemmatization,S2D-085,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-086,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-087,1.0,1.0,1.0,22
+s2d,c) VSM + lemmatization,S2D-088,0.3333,0.5,0.0,29
+s2d,c) VSM + lemmatization,S2D-089,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-090,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-091,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-092,1.0,1.0,1.0,29
+s2d,c) VSM + lemmatization,S2D-093,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-094,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-095,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-096,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-097,1.0,1.0,1.0,39
+s2d,c) VSM + lemmatization,S2D-098,0.5,0.6309,0.0,35
+s2d,c) VSM + lemmatization,S2D-099,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-100,1.0,1.0,1.0,24
+s2d,c) VSM + lemmatization,S2D-101,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-102,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-103,1.0,1.0,1.0,29
+s2d,c) VSM + lemmatization,S2D-104,1.0,1.0,1.0,38
+s2d,c) VSM + lemmatization,S2D-105,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-106,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-107,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-108,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-109,1.0,1.0,1.0,29
+s2d,c) VSM + lemmatization,S2D-110,1.0,1.0,1.0,26
+s2d,c) VSM + lemmatization,S2D-111,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-112,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-113,1.0,1.0,1.0,26
+s2d,c) VSM + lemmatization,S2D-114,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-115,1.0,1.0,1.0,22
+s2d,c) VSM + lemmatization,S2D-116,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-117,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-118,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-119,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-120,0.5,0.6309,0.0,24
+s2d,c) VSM + lemmatization,S2D-121,1.0,1.0,1.0,38
+s2d,c) VSM + lemmatization,S2D-122,0.5,0.6309,0.0,25
+s2d,c) VSM + lemmatization,S2D-123,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-124,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-125,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-126,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-127,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-128,0.3333,0.5,0.0,24
+s2d,c) VSM + lemmatization,S2D-129,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-130,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-131,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-132,0.5,0.6309,0.0,31
+s2d,c) VSM + lemmatization,S2D-133,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-134,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-135,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-136,1.0,1.0,1.0,21
+s2d,c) VSM + lemmatization,S2D-137,1.0,1.0,1.0,26
+s2d,c) VSM + lemmatization,S2D-138,1.0,1.0,1.0,7
+s2d,c) VSM + lemmatization,S2D-139,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-140,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-141,1.0,1.0,1.0,40
+s2d,c) VSM + lemmatization,S2D-142,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-143,1.0,1.0,1.0,29
+s2d,c) VSM + lemmatization,S2D-144,1.0,1.0,1.0,22
+s2d,c) VSM + lemmatization,S2D-145,1.0,1.0,1.0,17
+s2d,c) VSM + lemmatization,S2D-146,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-147,0.5,0.6309,0.0,32
+s2d,c) VSM + lemmatization,S2D-148,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-149,0.5,0.6309,0.0,32
+s2d,c) VSM + lemmatization,S2D-150,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-151,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-152,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-153,0.5,0.6309,0.0,38
+s2d,c) VSM + lemmatization,S2D-154,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-155,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-156,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-157,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-158,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-159,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-160,1.0,1.0,1.0,38
+s2d,c) VSM + lemmatization,S2D-161,1.0,1.0,1.0,40
+s2d,c) VSM + lemmatization,S2D-162,1.0,1.0,1.0,13
+s2d,c) VSM + lemmatization,S2D-163,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-164,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-165,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-166,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-167,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-168,1.0,1.0,1.0,39
+s2d,c) VSM + lemmatization,S2D-169,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-170,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-171,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-172,1.0,1.0,1.0,38
+s2d,c) VSM + lemmatization,S2D-173,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-174,1.0,1.0,1.0,27
+s2d,c) VSM + lemmatization,S2D-175,1.0,1.0,1.0,33
+s2d,c) VSM + lemmatization,S2D-176,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-177,0.5,0.6309,0.0,36
+s2d,c) VSM + lemmatization,S2D-178,1.0,1.0,1.0,18
+s2d,c) VSM + lemmatization,S2D-179,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-180,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-181,0.5,0.6309,0.0,26
+s2d,c) VSM + lemmatization,S2D-182,1.0,1.0,1.0,26
+s2d,c) VSM + lemmatization,S2D-183,1.0,1.0,1.0,40
+s2d,c) VSM + lemmatization,S2D-184,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-185,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-186,0.5,0.6309,0.0,31
+s2d,c) VSM + lemmatization,S2D-187,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-188,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-189,1.0,1.0,1.0,36
+s2d,c) VSM + lemmatization,S2D-190,0.5,0.6309,0.0,27
+s2d,c) VSM + lemmatization,S2D-191,1.0,1.0,1.0,37
+s2d,c) VSM + lemmatization,S2D-192,1.0,1.0,1.0,30
+s2d,c) VSM + lemmatization,S2D-193,1.0,1.0,1.0,19
+s2d,c) VSM + lemmatization,S2D-194,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-195,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-196,1.0,1.0,1.0,34
+s2d,c) VSM + lemmatization,S2D-197,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-198,1.0,1.0,1.0,28
+s2d,c) VSM + lemmatization,S2D-199,1.0,1.0,1.0,25
+s2d,c) VSM + lemmatization,S2D-200,0.5,0.6309,0.0,28
+s2d,c) VSM + lemmatization,S2D-201,1.0,1.0,1.0,39
+s2d,c) VSM + lemmatization,S2D-202,1.0,1.0,1.0,35
+s2d,c) VSM + lemmatization,S2D-203,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-204,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-205,0.5,0.6309,0.0,29
+s2d,c) VSM + lemmatization,S2D-206,0.5,0.6309,0.0,30
+s2d,c) VSM + lemmatization,S2D-207,0.5,0.6309,0.0,25
+s2d,c) VSM + lemmatization,S2D-208,0.5,0.6309,0.0,40
+s2d,c) VSM + lemmatization,S2D-209,1.0,1.0,1.0,31
+s2d,c) VSM + lemmatization,S2D-210,1.0,1.0,1.0,32
+s2d,c) VSM + lemmatization,S2D-211,0.5,0.6309,0.0,28
+s2d,c) VSM + lemmatization,S2D-212,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-001,0.5,0.6309,0.0,27
+s2d,d) VSM + fuzzy correction,S2D-002,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-003,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-004,1.0,1.0,1.0,26
+s2d,d) VSM + fuzzy correction,S2D-005,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-006,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-007,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-008,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-009,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-010,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-011,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-012,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-013,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-014,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-015,0.5,0.6309,0.0,34
+s2d,d) VSM + fuzzy correction,S2D-016,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-017,1.0,1.0,1.0,25
+s2d,d) VSM + fuzzy correction,S2D-018,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-019,1.0,1.0,1.0,23
+s2d,d) VSM + fuzzy correction,S2D-020,1.0,1.0,1.0,38
+s2d,d) VSM + fuzzy correction,S2D-021,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-022,1.0,1.0,1.0,39
+s2d,d) VSM + fuzzy correction,S2D-023,1.0,1.0,1.0,32
+s2d,d) VSM + fuzzy correction,S2D-024,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-025,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-026,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-027,1.0,1.0,1.0,25
+s2d,d) VSM + fuzzy correction,S2D-028,1.0,1.0,1.0,32
+s2d,d) VSM + fuzzy correction,S2D-029,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-030,1.0,1.0,1.0,40
+s2d,d) VSM + fuzzy correction,S2D-031,1.0,1.0,1.0,39
+s2d,d) VSM + fuzzy correction,S2D-032,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-033,1.0,1.0,1.0,26
+s2d,d) VSM + fuzzy correction,S2D-034,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-035,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-036,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-037,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-038,1.0,1.0,1.0,15
+s2d,d) VSM + fuzzy correction,S2D-039,0.5,0.6309,0.0,36
+s2d,d) VSM + fuzzy correction,S2D-040,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-041,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-042,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-043,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-044,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-045,1.0,1.0,1.0,23
+s2d,d) VSM + fuzzy correction,S2D-046,1.0,1.0,1.0,18
+s2d,d) VSM + fuzzy correction,S2D-047,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-048,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-049,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-050,1.0,1.0,1.0,38
+s2d,d) VSM + fuzzy correction,S2D-051,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-052,1.0,1.0,1.0,27
+s2d,d) VSM + fuzzy correction,S2D-053,1.0,1.0,1.0,32
+s2d,d) VSM + fuzzy correction,S2D-054,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-055,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-056,1.0,1.0,1.0,38
+s2d,d) VSM + fuzzy correction,S2D-057,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-058,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-059,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-060,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-061,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-062,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-063,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-064,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-065,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-066,1.0,1.0,1.0,27
+s2d,d) VSM + fuzzy correction,S2D-067,0.5,0.6309,0.0,35
+s2d,d) VSM + fuzzy correction,S2D-068,0.5,0.6309,0.0,33
+s2d,d) VSM + fuzzy correction,S2D-069,0.25,0.4307,0.0,21
+s2d,d) VSM + fuzzy correction,S2D-070,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-071,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-072,1.0,1.0,1.0,32
+s2d,d) VSM + fuzzy correction,S2D-073,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-074,1.0,1.0,1.0,41
+s2d,d) VSM + fuzzy correction,S2D-075,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-076,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-077,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-078,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-079,1.0,1.0,1.0,22
+s2d,d) VSM + fuzzy correction,S2D-080,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-081,1.0,1.0,1.0,38
+s2d,d) VSM + fuzzy correction,S2D-082,0.3333,0.5,0.0,37
+s2d,d) VSM + fuzzy correction,S2D-083,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-084,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-085,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-086,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-087,1.0,1.0,1.0,22
+s2d,d) VSM + fuzzy correction,S2D-088,0.3333,0.5,0.0,35
+s2d,d) VSM + fuzzy correction,S2D-089,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-090,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-091,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-092,1.0,1.0,1.0,29
+s2d,d) VSM + fuzzy correction,S2D-093,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-094,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-095,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-096,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-097,1.0,1.0,1.0,40
+s2d,d) VSM + fuzzy correction,S2D-098,0.5,0.6309,0.0,35
+s2d,d) VSM + fuzzy correction,S2D-099,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-100,1.0,1.0,1.0,24
+s2d,d) VSM + fuzzy correction,S2D-101,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-102,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-103,1.0,1.0,1.0,32
+s2d,d) VSM + fuzzy correction,S2D-104,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-105,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-106,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-107,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-108,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-109,1.0,1.0,1.0,29
+s2d,d) VSM + fuzzy correction,S2D-110,0.5,0.6309,0.0,29
+s2d,d) VSM + fuzzy correction,S2D-111,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-112,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-113,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-114,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-115,1.0,1.0,1.0,23
+s2d,d) VSM + fuzzy correction,S2D-116,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-117,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-118,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-119,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-120,0.5,0.6309,0.0,24
+s2d,d) VSM + fuzzy correction,S2D-121,1.0,1.0,1.0,39
+s2d,d) VSM + fuzzy correction,S2D-122,0.5,0.6309,0.0,25
+s2d,d) VSM + fuzzy correction,S2D-123,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-124,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-125,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-126,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-127,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-128,0.5,0.6309,0.0,19
+s2d,d) VSM + fuzzy correction,S2D-129,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-130,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-131,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-132,0.5,0.6309,0.0,31
+s2d,d) VSM + fuzzy correction,S2D-133,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-134,1.0,1.0,1.0,25
+s2d,d) VSM + fuzzy correction,S2D-135,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-136,1.0,1.0,1.0,21
+s2d,d) VSM + fuzzy correction,S2D-137,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-138,1.0,1.0,1.0,7
+s2d,d) VSM + fuzzy correction,S2D-139,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-140,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-141,1.0,1.0,1.0,40
+s2d,d) VSM + fuzzy correction,S2D-142,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-143,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-144,1.0,1.0,1.0,22
+s2d,d) VSM + fuzzy correction,S2D-145,1.0,1.0,1.0,17
+s2d,d) VSM + fuzzy correction,S2D-146,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-147,0.5,0.6309,0.0,33
+s2d,d) VSM + fuzzy correction,S2D-148,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-149,0.5,0.6309,0.0,33
+s2d,d) VSM + fuzzy correction,S2D-150,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-151,1.0,1.0,1.0,25
+s2d,d) VSM + fuzzy correction,S2D-152,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-153,0.5,0.6309,0.0,38
+s2d,d) VSM + fuzzy correction,S2D-154,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-155,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-156,1.0,1.0,1.0,27
+s2d,d) VSM + fuzzy correction,S2D-157,0.5,0.6309,0.0,32
+s2d,d) VSM + fuzzy correction,S2D-158,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-159,1.0,1.0,1.0,29
+s2d,d) VSM + fuzzy correction,S2D-160,1.0,1.0,1.0,38
+s2d,d) VSM + fuzzy correction,S2D-161,1.0,1.0,1.0,40
+s2d,d) VSM + fuzzy correction,S2D-162,1.0,1.0,1.0,13
+s2d,d) VSM + fuzzy correction,S2D-163,1.0,1.0,1.0,25
+s2d,d) VSM + fuzzy correction,S2D-164,0.5,0.6309,0.0,29
+s2d,d) VSM + fuzzy correction,S2D-165,1.0,1.0,1.0,26
+s2d,d) VSM + fuzzy correction,S2D-166,1.0,1.0,1.0,26
+s2d,d) VSM + fuzzy correction,S2D-167,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-168,1.0,1.0,1.0,39
+s2d,d) VSM + fuzzy correction,S2D-169,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-170,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-171,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-172,1.0,1.0,1.0,38
+s2d,d) VSM + fuzzy correction,S2D-173,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-174,1.0,1.0,1.0,27
+s2d,d) VSM + fuzzy correction,S2D-175,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-176,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-177,0.5,0.6309,0.0,36
+s2d,d) VSM + fuzzy correction,S2D-178,1.0,1.0,1.0,20
+s2d,d) VSM + fuzzy correction,S2D-179,1.0,1.0,1.0,36
+s2d,d) VSM + fuzzy correction,S2D-180,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-181,0.5,0.6309,0.0,26
+s2d,d) VSM + fuzzy correction,S2D-182,1.0,1.0,1.0,26
+s2d,d) VSM + fuzzy correction,S2D-183,1.0,1.0,1.0,40
+s2d,d) VSM + fuzzy correction,S2D-184,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-185,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-186,0.5,0.6309,0.0,31
+s2d,d) VSM + fuzzy correction,S2D-187,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-188,1.0,1.0,1.0,31
+s2d,d) VSM + fuzzy correction,S2D-189,1.0,1.0,1.0,38
+s2d,d) VSM + fuzzy correction,S2D-190,0.5,0.6309,0.0,27
+s2d,d) VSM + fuzzy correction,S2D-191,1.0,1.0,1.0,37
+s2d,d) VSM + fuzzy correction,S2D-192,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-193,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-194,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-195,1.0,1.0,1.0,32
+s2d,d) VSM + fuzzy correction,S2D-196,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-197,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-198,1.0,1.0,1.0,28
+s2d,d) VSM + fuzzy correction,S2D-199,1.0,1.0,1.0,25
+s2d,d) VSM + fuzzy correction,S2D-200,0.5,0.6309,0.0,32
+s2d,d) VSM + fuzzy correction,S2D-201,1.0,1.0,1.0,39
+s2d,d) VSM + fuzzy correction,S2D-202,1.0,1.0,1.0,35
+s2d,d) VSM + fuzzy correction,S2D-203,1.0,1.0,1.0,30
+s2d,d) VSM + fuzzy correction,S2D-204,1.0,1.0,1.0,32
+s2d,d) VSM + fuzzy correction,S2D-205,0.5,0.6309,0.0,29
+s2d,d) VSM + fuzzy correction,S2D-206,0.5,0.6309,0.0,30
+s2d,d) VSM + fuzzy correction,S2D-207,1.0,1.0,1.0,29
+s2d,d) VSM + fuzzy correction,S2D-208,0.5,0.6309,0.0,40
+s2d,d) VSM + fuzzy correction,S2D-209,1.0,1.0,1.0,34
+s2d,d) VSM + fuzzy correction,S2D-210,1.0,1.0,1.0,33
+s2d,d) VSM + fuzzy correction,S2D-211,0.5,0.6309,0.0,28
+s2d,d) VSM + fuzzy correction,S2D-212,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-001,0.5,0.6309,0.0,27
+s2d,e) VSM + severity weighting,S2D-002,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-003,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-004,1.0,1.0,1.0,26
+s2d,e) VSM + severity weighting,S2D-005,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-006,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-007,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-008,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-009,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-010,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-011,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-012,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-013,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-014,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-015,0.5,0.6309,0.0,34
+s2d,e) VSM + severity weighting,S2D-016,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-017,1.0,1.0,1.0,25
+s2d,e) VSM + severity weighting,S2D-018,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-019,1.0,1.0,1.0,23
+s2d,e) VSM + severity weighting,S2D-020,1.0,1.0,1.0,38
+s2d,e) VSM + severity weighting,S2D-021,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-022,1.0,1.0,1.0,39
+s2d,e) VSM + severity weighting,S2D-023,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-024,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-025,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-026,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-027,1.0,1.0,1.0,25
+s2d,e) VSM + severity weighting,S2D-028,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-029,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-030,1.0,1.0,1.0,40
+s2d,e) VSM + severity weighting,S2D-031,1.0,1.0,1.0,39
+s2d,e) VSM + severity weighting,S2D-032,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-033,1.0,1.0,1.0,26
+s2d,e) VSM + severity weighting,S2D-034,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-035,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-036,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-037,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-038,1.0,1.0,1.0,15
+s2d,e) VSM + severity weighting,S2D-039,0.5,0.6309,0.0,36
+s2d,e) VSM + severity weighting,S2D-040,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-041,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-042,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-043,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-044,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-045,1.0,1.0,1.0,23
+s2d,e) VSM + severity weighting,S2D-046,1.0,1.0,1.0,18
+s2d,e) VSM + severity weighting,S2D-047,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-048,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-049,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-050,1.0,1.0,1.0,38
+s2d,e) VSM + severity weighting,S2D-051,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-052,1.0,1.0,1.0,27
+s2d,e) VSM + severity weighting,S2D-053,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-054,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-055,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-056,1.0,1.0,1.0,38
+s2d,e) VSM + severity weighting,S2D-057,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-058,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-059,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-060,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-061,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-062,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-063,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-064,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-065,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-066,1.0,1.0,1.0,27
+s2d,e) VSM + severity weighting,S2D-067,0.5,0.6309,0.0,35
+s2d,e) VSM + severity weighting,S2D-068,0.5,0.6309,0.0,33
+s2d,e) VSM + severity weighting,S2D-069,0.25,0.4307,0.0,21
+s2d,e) VSM + severity weighting,S2D-070,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-071,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-072,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-073,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-074,1.0,1.0,1.0,41
+s2d,e) VSM + severity weighting,S2D-075,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-076,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-077,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-078,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-079,1.0,1.0,1.0,22
+s2d,e) VSM + severity weighting,S2D-080,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-081,1.0,1.0,1.0,38
+s2d,e) VSM + severity weighting,S2D-082,0.3333,0.5,0.0,37
+s2d,e) VSM + severity weighting,S2D-083,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-084,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-085,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-086,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-087,1.0,1.0,1.0,22
+s2d,e) VSM + severity weighting,S2D-088,0.3333,0.5,0.0,35
+s2d,e) VSM + severity weighting,S2D-089,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-090,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-091,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-092,1.0,1.0,1.0,29
+s2d,e) VSM + severity weighting,S2D-093,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-094,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-095,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-096,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-097,1.0,1.0,1.0,40
+s2d,e) VSM + severity weighting,S2D-098,0.5,0.6309,0.0,35
+s2d,e) VSM + severity weighting,S2D-099,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-100,1.0,1.0,1.0,24
+s2d,e) VSM + severity weighting,S2D-101,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-102,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-103,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-104,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-105,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-106,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-107,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-108,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-109,1.0,1.0,1.0,29
+s2d,e) VSM + severity weighting,S2D-110,0.5,0.6309,0.0,29
+s2d,e) VSM + severity weighting,S2D-111,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-112,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-113,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-114,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-115,1.0,1.0,1.0,23
+s2d,e) VSM + severity weighting,S2D-116,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-117,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-118,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-119,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-120,0.5,0.6309,0.0,24
+s2d,e) VSM + severity weighting,S2D-121,1.0,1.0,1.0,39
+s2d,e) VSM + severity weighting,S2D-122,0.5,0.6309,0.0,25
+s2d,e) VSM + severity weighting,S2D-123,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-124,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-125,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-126,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-127,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-128,0.5,0.6309,0.0,19
+s2d,e) VSM + severity weighting,S2D-129,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-130,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-131,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-132,0.5,0.6309,0.0,31
+s2d,e) VSM + severity weighting,S2D-133,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-134,1.0,1.0,1.0,25
+s2d,e) VSM + severity weighting,S2D-135,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-136,1.0,1.0,1.0,21
+s2d,e) VSM + severity weighting,S2D-137,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-138,1.0,1.0,1.0,7
+s2d,e) VSM + severity weighting,S2D-139,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-140,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-141,1.0,1.0,1.0,40
+s2d,e) VSM + severity weighting,S2D-142,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-143,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-144,1.0,1.0,1.0,22
+s2d,e) VSM + severity weighting,S2D-145,1.0,1.0,1.0,17
+s2d,e) VSM + severity weighting,S2D-146,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-147,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-148,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-149,0.5,0.6309,0.0,33
+s2d,e) VSM + severity weighting,S2D-150,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-151,1.0,1.0,1.0,25
+s2d,e) VSM + severity weighting,S2D-152,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-153,0.5,0.6309,0.0,38
+s2d,e) VSM + severity weighting,S2D-154,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-155,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-156,1.0,1.0,1.0,27
+s2d,e) VSM + severity weighting,S2D-157,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-158,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-159,1.0,1.0,1.0,29
+s2d,e) VSM + severity weighting,S2D-160,1.0,1.0,1.0,38
+s2d,e) VSM + severity weighting,S2D-161,1.0,1.0,1.0,40
+s2d,e) VSM + severity weighting,S2D-162,1.0,1.0,1.0,13
+s2d,e) VSM + severity weighting,S2D-163,1.0,1.0,1.0,25
+s2d,e) VSM + severity weighting,S2D-164,0.5,0.6309,0.0,29
+s2d,e) VSM + severity weighting,S2D-165,1.0,1.0,1.0,26
+s2d,e) VSM + severity weighting,S2D-166,1.0,1.0,1.0,26
+s2d,e) VSM + severity weighting,S2D-167,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-168,1.0,1.0,1.0,39
+s2d,e) VSM + severity weighting,S2D-169,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-170,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-171,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-172,1.0,1.0,1.0,38
+s2d,e) VSM + severity weighting,S2D-173,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-174,1.0,1.0,1.0,27
+s2d,e) VSM + severity weighting,S2D-175,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-176,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-177,0.5,0.6309,0.0,36
+s2d,e) VSM + severity weighting,S2D-178,1.0,1.0,1.0,20
+s2d,e) VSM + severity weighting,S2D-179,1.0,1.0,1.0,36
+s2d,e) VSM + severity weighting,S2D-180,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-181,0.5,0.6309,0.0,26
+s2d,e) VSM + severity weighting,S2D-182,1.0,1.0,1.0,26
+s2d,e) VSM + severity weighting,S2D-183,1.0,1.0,1.0,40
+s2d,e) VSM + severity weighting,S2D-184,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-185,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-186,0.5,0.6309,0.0,31
+s2d,e) VSM + severity weighting,S2D-187,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-188,1.0,1.0,1.0,31
+s2d,e) VSM + severity weighting,S2D-189,1.0,1.0,1.0,38
+s2d,e) VSM + severity weighting,S2D-190,0.5,0.6309,0.0,27
+s2d,e) VSM + severity weighting,S2D-191,1.0,1.0,1.0,37
+s2d,e) VSM + severity weighting,S2D-192,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-193,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-194,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-195,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-196,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-197,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-198,1.0,1.0,1.0,28
+s2d,e) VSM + severity weighting,S2D-199,1.0,1.0,1.0,25
+s2d,e) VSM + severity weighting,S2D-200,0.5,0.6309,0.0,32
+s2d,e) VSM + severity weighting,S2D-201,1.0,1.0,1.0,39
+s2d,e) VSM + severity weighting,S2D-202,1.0,1.0,1.0,35
+s2d,e) VSM + severity weighting,S2D-203,1.0,1.0,1.0,30
+s2d,e) VSM + severity weighting,S2D-204,1.0,1.0,1.0,32
+s2d,e) VSM + severity weighting,S2D-205,0.5,0.6309,0.0,29
+s2d,e) VSM + severity weighting,S2D-206,0.5,0.6309,0.0,30
+s2d,e) VSM + severity weighting,S2D-207,1.0,1.0,1.0,29
+s2d,e) VSM + severity weighting,S2D-208,0.5,0.6309,0.0,40
+s2d,e) VSM + severity weighting,S2D-209,1.0,1.0,1.0,34
+s2d,e) VSM + severity weighting,S2D-210,1.0,1.0,1.0,33
+s2d,e) VSM + severity weighting,S2D-211,0.5,0.6309,0.0,28
+s2d,e) VSM + severity weighting,S2D-212,1.0,1.0,1.0,28
+s2d,f) VSM + Rocchio (PRF),S2D-001,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-002,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-003,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-004,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-005,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-006,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-007,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-008,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-009,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-010,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-011,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-012,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-013,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-014,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-015,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-016,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-017,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-018,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-019,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-020,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-021,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-022,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-023,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-024,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-025,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-026,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-027,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-028,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-029,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-030,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-031,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-032,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-033,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-034,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-035,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-036,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-037,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-038,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-039,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-040,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-041,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-042,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-043,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-044,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-045,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-046,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-047,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-048,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-049,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-050,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-051,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-052,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-053,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-054,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-055,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-056,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-057,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-058,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-059,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-060,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-061,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-062,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-063,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-064,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-065,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-066,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-067,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-068,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-069,0.2,0.3869,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-070,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-071,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-072,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-073,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-074,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-075,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-076,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-077,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-078,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-079,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-080,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-081,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-082,0.3333,0.5,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-083,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-084,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-085,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-086,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-087,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-088,0.3333,0.5,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-089,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-090,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-091,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-092,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-093,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-094,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-095,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-096,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-097,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-098,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-099,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-100,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-101,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-102,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-103,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-104,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-105,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-106,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-107,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-108,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-109,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-110,0.3333,0.5,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-111,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-112,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-113,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-114,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-115,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-116,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-117,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-118,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-119,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-120,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-121,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-122,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-123,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-124,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-125,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-126,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-127,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-128,0.3333,0.5,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-129,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-130,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-131,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-132,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-133,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-134,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-135,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-136,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-137,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-138,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-139,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-140,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-141,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-142,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-143,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-144,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-145,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-146,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-147,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-148,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-149,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-150,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-151,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-152,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-153,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-154,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-155,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-156,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-157,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-158,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-159,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-160,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-161,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-162,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-163,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-164,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-165,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-166,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-167,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-168,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-169,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-170,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-171,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-172,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-173,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-174,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-175,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-176,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-177,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-178,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-179,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-180,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-181,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-182,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-183,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-184,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-185,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-186,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-187,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-188,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-189,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-190,0.3333,0.5,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-191,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-192,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-193,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-194,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-195,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-196,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-197,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-198,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-199,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-200,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-201,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-202,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-203,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-204,0.3333,0.5,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-205,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-206,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-207,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-208,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-209,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-210,1.0,1.0,1.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-211,0.5,0.6309,0.0,41
+s2d,f) VSM + Rocchio (PRF),S2D-212,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-001,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-002,0.5,0.6309,0.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-003,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-004,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-005,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-006,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-007,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-008,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-009,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-010,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-011,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-012,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-013,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-014,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-015,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-016,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-017,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-018,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-019,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-020,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-021,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-022,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-023,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-024,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-025,0.5,0.6309,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-026,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-027,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-028,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-029,1.0,1.0,1.0,34
+s2d,g) VSM + Ide Regular (PRF),S2D-030,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-031,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-032,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-033,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-034,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-035,0.5,0.6309,0.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-036,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-037,0.5,0.6309,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-038,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-039,0.5,0.6309,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-040,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-041,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-042,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-043,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-044,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-045,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-046,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-047,0.3333,0.5,0.0,34
+s2d,g) VSM + Ide Regular (PRF),S2D-048,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-049,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-050,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-051,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-052,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-053,0.3333,0.5,0.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-054,0.5,0.6309,0.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-055,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-056,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-057,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-058,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-059,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-060,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-061,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-062,1.0,1.0,1.0,31
+s2d,g) VSM + Ide Regular (PRF),S2D-063,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-064,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-065,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-066,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-067,0.3333,0.5,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-068,0.5,0.6309,0.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-069,0.25,0.4307,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-070,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-071,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-072,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-073,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-074,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-075,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-076,0.5,0.6309,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-077,1.0,1.0,1.0,33
+s2d,g) VSM + Ide Regular (PRF),S2D-078,0.3333,0.5,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-079,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-080,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-081,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-082,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-083,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-084,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-085,1.0,1.0,1.0,34
+s2d,g) VSM + Ide Regular (PRF),S2D-086,0.5,0.6309,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-087,0.3333,0.5,0.0,33
+s2d,g) VSM + Ide Regular (PRF),S2D-088,0.3333,0.5,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-089,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-090,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-091,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-092,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-093,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-094,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-095,0.5,0.6309,0.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-096,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-097,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-098,0.3333,0.5,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-099,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-100,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-101,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-102,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-103,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-104,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-105,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-106,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-107,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-108,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-109,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-110,0.3333,0.5,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-111,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-112,0.3333,0.5,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-113,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-114,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-115,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-116,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-117,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-118,0.5,0.6309,0.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-119,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-120,0.5,0.6309,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-121,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-122,0.5,0.6309,0.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-123,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-124,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-125,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-126,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-127,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-128,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-129,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-130,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-131,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-132,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-133,0.3333,0.5,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-134,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-135,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-136,0.3333,0.5,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-137,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-138,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-139,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-140,0.3333,0.5,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-141,0.5,0.6309,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-142,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-143,0.3333,0.5,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-144,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-145,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-146,0.5,0.6309,0.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-147,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-148,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-149,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-150,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-151,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-152,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-153,0.5,0.6309,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-154,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-155,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-156,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-157,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-158,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-159,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-160,0.3333,0.5,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-161,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-162,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-163,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-164,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-165,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-166,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-167,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-168,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-169,1.0,1.0,1.0,34
+s2d,g) VSM + Ide Regular (PRF),S2D-170,1.0,1.0,1.0,34
+s2d,g) VSM + Ide Regular (PRF),S2D-171,1.0,1.0,1.0,35
+s2d,g) VSM + Ide Regular (PRF),S2D-172,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-173,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-174,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-175,0.3333,0.5,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-176,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-177,0.5,0.6309,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-178,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-179,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-180,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-181,0.5,0.6309,0.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-182,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-183,0.5,0.6309,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-184,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-185,1.0,1.0,1.0,33
+s2d,g) VSM + Ide Regular (PRF),S2D-186,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-187,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-188,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-189,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-190,0.3333,0.5,0.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-191,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-192,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-193,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-194,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-195,1.0,1.0,1.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-196,0.5,0.6309,0.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-197,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-198,1.0,1.0,1.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-199,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-200,0.5,0.6309,0.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-201,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-202,1.0,1.0,1.0,39
+s2d,g) VSM + Ide Regular (PRF),S2D-203,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-204,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-205,1.0,1.0,1.0,37
+s2d,g) VSM + Ide Regular (PRF),S2D-206,0.5,0.6309,0.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-207,1.0,1.0,1.0,41
+s2d,g) VSM + Ide Regular (PRF),S2D-208,0.5,0.6309,0.0,38
+s2d,g) VSM + Ide Regular (PRF),S2D-209,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-210,1.0,1.0,1.0,40
+s2d,g) VSM + Ide Regular (PRF),S2D-211,0.5,0.6309,0.0,36
+s2d,g) VSM + Ide Regular (PRF),S2D-212,1.0,1.0,1.0,40
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-001,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-002,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-003,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-004,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-005,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-006,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-007,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-008,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-009,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-010,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-011,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-012,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-013,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-014,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-015,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-016,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-017,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-018,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-019,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-020,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-021,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-022,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-023,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-024,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-025,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-026,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-027,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-028,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-029,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-030,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-031,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-032,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-033,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-034,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-035,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-036,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-037,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-038,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-039,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-040,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-041,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-042,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-043,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-044,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-045,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-046,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-047,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-048,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-049,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-050,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-051,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-052,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-053,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-054,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-055,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-056,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-057,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-058,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-059,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-060,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-061,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-062,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-063,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-064,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-065,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-066,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-067,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-068,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-069,0.2,0.3869,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-070,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-071,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-072,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-073,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-074,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-075,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-076,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-077,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-078,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-079,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-080,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-081,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-082,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-083,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-084,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-085,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-086,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-087,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-088,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-089,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-090,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-091,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-092,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-093,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-094,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-095,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-096,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-097,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-098,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-099,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-100,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-101,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-102,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-103,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-104,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-105,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-106,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-107,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-108,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-109,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-110,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-111,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-112,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-113,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-114,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-115,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-116,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-117,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-118,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-119,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-120,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-121,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-122,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-123,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-124,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-125,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-126,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-127,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-128,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-129,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-130,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-131,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-132,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-133,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-134,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-135,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-136,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-137,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-138,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-139,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-140,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-141,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-142,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-143,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-144,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-145,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-146,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-147,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-148,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-149,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-150,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-151,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-152,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-153,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-154,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-155,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-156,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-157,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-158,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-159,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-160,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-161,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-162,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-163,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-164,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-165,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-166,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-167,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-168,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-169,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-170,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-171,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-172,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-173,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-174,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-175,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-176,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-177,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-178,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-179,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-180,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-181,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-182,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-183,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-184,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-185,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-186,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-187,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-188,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-189,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-190,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-191,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-192,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-193,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-194,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-195,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-196,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-197,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-198,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-199,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-200,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-201,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-202,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-203,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-204,0.3333,0.5,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-205,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-206,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-207,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-208,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-209,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-210,1.0,1.0,1.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-211,0.5,0.6309,0.0,41
+s2d,h) VSM + Ide Dec-Hi (PRF),S2D-212,1.0,1.0,1.0,41

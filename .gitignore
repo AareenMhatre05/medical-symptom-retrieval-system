@@ -1,0 +1,19 @@
+# kept locally, not published
+report/
+decision.md
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# full MedlinePlus download (only the small subset JSON is committed)
+data/external/medlineplus/mplus_topics_*.xml
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

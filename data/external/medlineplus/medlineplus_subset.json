@@ -1,0 +1,291 @@
+{
+ "(vertigo) Paroymsal Positional Vertigo": {
+  "topic": "Dizziness and Vertigo",
+  "url": "https://medlineplus.gov/dizzinessandvertigo.html",
+  "also_called": []
+ },
+ "Acne": {
+  "topic": "Acne",
+  "url": "https://medlineplus.gov/acne.html",
+  "also_called": [
+   "Pimples",
+   "Zits"
+  ]
+ },
+ "AIDS": {
+  "topic": "HIV",
+  "url": "https://medlineplus.gov/hiv.html",
+  "also_called": [
+   "AIDS",
+   "Acquired immunodeficiency syndrome",
+   "Human immunodeficiency virus"
+  ]
+ },
+ "Alcoholic hepatitis": {
+  "topic": "Steatotic Liver Disease",
+  "url": "https://medlineplus.gov/steatoticliverdisease.html",
+  "also_called": [
+   "ALD",
+   "Alcohol-associated liver disease",
+   "Alcoholic fatty liver disease",
+   "Fatty Liver Disease",
+   "MASLD",
+   "Metabolic dysfunction-associated steatotic liver disease",
+   "NAFLD",
+   "Nonalcoholic fatty liver disease",
+   "SLD"
+  ]
+ },
+ "Allergy": {
+  "topic": "Allergy",
+  "url": "https://medlineplus.gov/allergy.html",
+  "also_called": [
+   "Hypersensitivity"
+  ]
+ },
+ "Arthritis": {
+  "topic": "Arthritis",
+  "url": "https://medlineplus.gov/arthritis.html",
+  "also_called": [
+   "Joint inflammation"
+  ]
+ },
+ "Bronchial Asthma": {
+  "topic": "Asthma",
+  "url": "https://medlineplus.gov/asthma.html",
+  "also_called": []
+ },
+ "Cervical spondylosis": {
+  "topic": "Neck Injuries and Disorders",
+  "url": "https://medlineplus.gov/neckinjuriesanddisorders.html",
+  "also_called": []
+ },
+ "Chicken pox": {
+  "topic": "Chickenpox",
+  "url": "https://medlineplus.gov/chickenpox.html",
+  "also_called": [
+   "Varicella"
+  ]
+ },
+ "Chronic cholestasis": {
+  "topic": "Bile Duct Diseases",
+  "url": "https://medlineplus.gov/bileductdiseases.html",
+  "also_called": []
+ },
+ "Common Cold": {
+  "topic": "Common Cold",
+  "url": "https://medlineplus.gov/commoncold.html",
+  "also_called": []
+ },
+ "Dengue": {
+  "topic": "Dengue",
+  "url": "https://medlineplus.gov/dengue.html",
+  "also_called": [
+   "Break-bone fever",
+   "Dengue fever"
+  ]
+ },
+ "Diabetes": {
+  "topic": "Diabetes",
+  "url": "https://medlineplus.gov/diabetes.html",
+  "also_called": [
+   "DM",
+   "Diabetes mellitus"
+  ]
+ },
+ "Dimorphic hemorrhoids(piles)": {
+  "topic": "Hemorrhoids",
+  "url": "https://medlineplus.gov/hemorrhoids.html",
+  "also_called": [
+   "Piles"
+  ]
+ },
+ "Drug Reaction": {
+  "topic": "Drug Reactions",
+  "url": "https://medlineplus.gov/drugreactions.html",
+  "also_called": [
+   "Side effects"
+  ]
+ },
+ "Fungal infection": {
+  "topic": "Fungal Infections",
+  "url": "https://medlineplus.gov/fungalinfections.html",
+  "also_called": [
+   "Mycoses"
+  ]
+ },
+ "Gastroenteritis": {
+  "topic": "Gastroenteritis",
+  "url": "https://medlineplus.gov/gastroenteritis.html",
+  "also_called": [
+   "Stomach flu"
+  ]
+ },
+ "GERD": {
+  "topic": "GERD",
+  "url": "https://medlineplus.gov/gerd.html",
+  "also_called": [
+   "Gastroesophageal reflux disease"
+  ]
+ },
+ "Heart attack": {
+  "topic": "Heart Attack",
+  "url": "https://medlineplus.gov/heartattack.html",
+  "also_called": [
+   "MI",
+   "Myocardial infarction"
+  ]
+ },
+ "hepatitis A": {
+  "topic": "Hepatitis A",
+  "url": "https://medlineplus.gov/hepatitisa.html",
+  "also_called": [
+   "HAV"
+  ]
+ },
+ "Hepatitis B": {
+  "topic": "Hepatitis B",
+  "url": "https://medlineplus.gov/hepatitisb.html",
+  "also_called": [
+   "HBV"
+  ]
+ },
+ "Hepatitis C": {
+  "topic": "Hepatitis C",
+  "url": "https://medlineplus.gov/hepatitisc.html",
+  "also_called": [
+   "HCV"
+  ]
+ },
+ "Hepatitis D": {
+  "topic": "Hepatitis",
+  "url": "https://medlineplus.gov/hepatitis.html",
+  "also_called": []
+ },
+ "Hepatitis E": {
+  "topic": "Hepatitis",
+  "url": "https://medlineplus.gov/hepatitis.html",
+  "also_called": []
+ },
+ "Hypertension": {
+  "topic": "High Blood Pressure",
+  "url": "https://medlineplus.gov/highbloodpressure.html",
+  "also_called": [
+   "Benign essential hypertension",
+   "Essential hypertension",
+   "HBP",
+   "HTN",
+   "Hypertension"
+  ]
+ },
+ "Hyperthyroidism": {
+  "topic": "Hyperthyroidism",
+  "url": "https://medlineplus.gov/hyperthyroidism.html",
+  "also_called": [
+   "Overactive thyroid"
+  ]
+ },
+ "Hypoglycemia": {
+  "topic": "Hypoglycemia",
+  "url": "https://medlineplus.gov/hypoglycemia.html",
+  "also_called": [
+   "Low blood sugar"
+  ]
+ },
+ "Hypothyroidism": {
+  "topic": "Hypothyroidism",
+  "url": "https://medlineplus.gov/hypothyroidism.html",
+  "also_called": [
+   "Underactive thyroid"
+  ]
+ },
+ "Impetigo": {
+  "topic": "Impetigo",
+  "url": "https://medlineplus.gov/impetigo.html",
+  "also_called": []
+ },
+ "Jaundice": {
+  "topic": "Jaundice",
+  "url": "https://medlineplus.gov/jaundice.html",
+  "also_called": [
+   "Icterus"
+  ]
+ },
+ "Malaria": {
+  "topic": "Malaria",
+  "url": "https://medlineplus.gov/malaria.html",
+  "also_called": []
+ },
+ "Migraine": {
+  "topic": "Migraine",
+  "url": "https://medlineplus.gov/migraine.html",
+  "also_called": []
+ },
+ "Osteoarthristis": {
+  "topic": "Osteoarthritis",
+  "url": "https://medlineplus.gov/osteoarthritis.html",
+  "also_called": [
+   "Degenerative joint disease",
+   "OA",
+   "Osteoarthrosis"
+  ]
+ },
+ "Paralysis (brain hemorrhage)": {
+  "topic": "Hemorrhagic Stroke",
+  "url": "https://medlineplus.gov/hemorrhagicstroke.html",
+  "also_called": [
+   "Intracerebral Hemorrhage",
+   "Subarachnoid Hemorrhage"
+  ]
+ },
+ "Peptic ulcer diseae": {
+  "topic": "Peptic Ulcer",
+  "url": "https://medlineplus.gov/pepticulcer.html",
+  "also_called": [
+   "Duodenal ulcer",
+   "Gastric ulcer",
+   "Stomach ulcer",
+   "Ulcer"
+  ]
+ },
+ "Pneumonia": {
+  "topic": "Pneumonia",
+  "url": "https://medlineplus.gov/pneumonia.html",
+  "also_called": [
+   "Bronchopneumonia"
+  ]
+ },
+ "Psoriasis": {
+  "topic": "Psoriasis",
+  "url": "https://medlineplus.gov/psoriasis.html",
+  "also_called": []
+ },
+ "Tuberculosis": {
+  "topic": "Tuberculosis",
+  "url": "https://medlineplus.gov/tuberculosis.html",
+  "also_called": [
+   "TB"
+  ]
+ },
+ "Typhoid": {
+  "topic": "Salmonella Infections",
+  "url": "https://medlineplus.gov/salmonellainfections.html",
+  "also_called": []
+ },
+ "Urinary tract infection": {
+  "topic": "Urinary Tract Infections",
+  "url": "https://medlineplus.gov/urinarytractinfections.html",
+  "also_called": [
+   "UTI"
+  ]
+ },
+ "Varicose veins": {
+  "topic": "Varicose Veins",
+  "url": "https://medlineplus.gov/varicoseveins.html",
+  "also_called": []
+ },
+ "_source": {
+  "file": "mplus_topics_2026-10-10.xml",
+  "attribution": "Information from MedlinePlus.gov (U.S. National Library of Medicine)"
+ }
+}

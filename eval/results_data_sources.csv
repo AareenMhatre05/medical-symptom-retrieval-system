@@ -1,0 +1,9 @@
+data,test_set,P@1,P@3,MAP,MRR,NDCG@5
+Kaggle dataset only,Own queries (38),0.9474,0.4912,0.865,0.9737,0.9278
+Kaggle dataset only,Symptom2Disease test (212),0.5566,0.2406,0.6598,0.6598,0.678
++ MedlinePlus names,Own queries (38),0.9737,0.4912,0.8678,0.9868,0.9342
++ MedlinePlus names,Symptom2Disease test (212),0.5708,0.2406,0.6657,0.6657,0.6822
++ Symptom2Disease expansion,Own queries (38),0.9737,0.4737,0.8684,0.9868,0.927
++ Symptom2Disease expansion,Symptom2Disease test (212),0.8726,0.3318,0.9328,0.9328,0.9502
++ both (final system),Own queries (38),0.9737,0.4737,0.8726,0.9868,0.9227
++ both (final system),Symptom2Disease test (212),0.8726,0.3318,0.9336,0.9336,0.9508

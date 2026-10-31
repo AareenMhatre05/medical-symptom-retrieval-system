@@ -267,9 +267,10 @@ All metrics are written from scratch and tested against hand-computed examples.
 
 ```
 data/
+  README.md                   licence and source of every data file
   archive/                    Kaggle CSV files (dataset, descriptions, precautions, severity)
   external/medlineplus/       medlineplus_subset.json (the 41 mapped topics)
-  external/symptom2disease/   train.jsonl, test.jsonl, README.md
+  external/symptom2disease/   train.jsonl, test.jsonl, README.md, LICENSE (Apache-2.0)
   processed_documents.csv     cleaned collection, one row per disease
 ir/
   data_loader.py              dataset cleaning and document construction
@@ -386,11 +387,19 @@ There are 84 tests:
 
 ## Data sources
 
-| Dataset | Source | Used for |
-|---|---|---|
-| Disease Symptom Prediction | [Kaggle (itachi9604)](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset) | main document collection (`data/archive/`) |
-| Symptom2Disease | [gretelai/symptom_to_diagnosis on Hugging Face](https://huggingface.co/datasets/gretelai/symptom_to_diagnosis) (Apache-2.0) | document expansion (train split) and independent evaluation (test split) |
-| MedlinePlus health topics | [U.S. National Library of Medicine](https://medlineplus.gov/xml.html) | alternative disease names. Information from MedlinePlus.gov. |
+| Dataset | Creator / source | Licence | Used for |
+|---|---|---|---|
+| Disease Symptom Prediction | Pranay Patil (with Pratik Rathod), [Kaggle: itachi9604](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | main document collection |
+| Symptom2Disease | [gretelai/symptom_to_diagnosis on Hugging Face](https://huggingface.co/datasets/gretelai/symptom_to_diagnosis) | Apache-2.0 | document expansion (train split) and independent evaluation (test split) |
+| MedlinePlus health topics | [U.S. National Library of Medicine](https://medlineplus.gov/xml.html) | free to use; information from MedlinePlus.gov | alternative disease names |
+
+The original Kaggle files are included unmodified in `data/archive/`.
+`data/processed_documents.csv` is an adaptation of *Disease Symptom Prediction* by
+Pranay Patil (rows merged per disease, symptom and disease names cleaned, descriptions and
+precautions joined). It is shared under the same CC BY-SA 4.0 licence. The ShareAlike
+condition applies to the data, not to the code that processes it.
+[`data/README.md`](data/README.md) lists the licence of every data file and the full list
+of changes.
 
 **References**
 
